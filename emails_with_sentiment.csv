@@ -1,501 +1,501 @@
-Sr. No,Subject,Body,Timestamp,Communication Channel,sentiment
-1,Great Job!,We’re on the right track—let’s keep pushing forward!,2025-01-30 18:40:12,Slack,positive
-2,Project Update,Can you forward me the CEO’s email please?,2025-01-26 07:44:12,Slack,neutral
-3,Urgent: Need Assistance,I’m hitting a few roadblocks here. Any suggestions?,2025-02-07 12:23:12,Email,negative
-4,Appreciation for Your Efforts,Thanks for your hard work on this project!,2025-01-17 20:13:12,Email,negative
-5,Quick Sync Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-11 06:23:12,Slack,neutral
-6,Concerns About Progress,I’m struggling with a lack of clarity around the expectations for my role,2025-01-15 14:42:12,Microsoft Teams,neutral
-7,Well Done!,Thanks for your hard work on this project!,2025-01-18 13:49:12,Email,negative
-8,General Inquiry,Here’s the link to the shared drive for the project files.,2025-02-01 02:47:12,Slack,neutral
-9,Struggling with Deadlines,"I suppose we can proceed, but I have some concerns.",2025-01-11 05:06:12,Email,neutral
-10,Fantastic Progress,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-07 02:39:12,Microsoft Teams,positive
-11,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-10 00:50:12,Email,negative
-12,Feeling Overwhelmed,I’m worried I won’t meet my deadlines,2025-01-31 18:41:12,Microsoft Teams,neutral
-13,Teamwork Pays Off,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-19 05:49:12,Microsoft Teams,positive
-14,Follow-Up Required,Can you forward me the CEO’s email please?,2025-02-05 19:08:12,Microsoft Teams,neutral
-15,Need Clarity on Expectations,I’m struggling with a lack of clarity around the expectations for my role,2025-01-26 04:17:12,Microsoft Teams,neutral
-16,Outstanding Work!,Well done! Great teamwork,2025-01-14 08:28:12,Email,positive
-17,Next Steps Discussion,Can you forward me the CEO’s email please?,2025-02-06 10:57:12,Email,neutral
-18,Blocked on a Task,This feels like it’s dragging on. Can we speed things up?,2025-01-23 16:28:12,Microsoft Teams,neutral
-19,Keep Up the Good Work!,Thanks for your hard work on this project!,2025-02-04 15:01:12,Microsoft Teams,negative
-20,Clarification Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-27 09:09:12,Slack,neutral
-21,Facing Challenges,I’m hitting a few roadblocks here. Any suggestions?,2025-01-10 17:03:12,Slack,negative
-22,Excellent Execution!,"Let’s keep it up, it looks good.",2025-01-20 19:42:12,Slack,positive
-23,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-07 04:12:12,Slack,neutral
-24,Workload Management Issues,I’m worried I won’t meet my deadlines,2025-01-12 20:06:12,Email,neutral
-25,Great Job!,Thanks for your hard work on this project!,2025-01-19 12:29:12,Email,negative
-26,Project Update,Can we sync up to discuss our progress on the project?,2025-01-22 19:41:12,Email,neutral
-27,Urgent: Need Assistance,This feels like it’s dragging on. Can we speed things up?,2025-01-30 01:53:12,Microsoft Teams,neutral
-28,Appreciation for Your Efforts,Excellent progress. Let’s push through the final stretch!,2025-01-29 12:42:12,Email,positive
-29,Quick Sync Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-10 00:43:12,Email,negative
-30,Concerns About Progress,This feels like it’s dragging on. Can we speed things up?,2025-01-14 04:02:12,Microsoft Teams,neutral
-31,Well Done!,Let’s keep the momentum going!,2025-01-20 00:54:12,Slack,neutral
-32,General Inquiry,I’m feeling a bit unsure about this approach. What do you think?,2025-01-11 22:21:12,Microsoft Teams,neutral
-33,Struggling with Deadlines,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-02-04 07:11:12,Slack,positive
-34,Fantastic Progress,Let’s keep the momentum going!,2025-02-06 06:31:12,Microsoft Teams,neutral
-35,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-31 18:27:12,Email,negative
-36,Feeling Overwhelmed,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-16 06:47:12,Email,negative
-37,Teamwork Pays Off,We’re on the right track—let’s keep pushing forward!,2025-01-16 22:32:12,Slack,positive
-38,Follow-Up Required,Can you forward me the CEO’s email please?,2025-01-10 23:32:12,Slack,neutral
-39,Need Clarity on Expectations,"I suppose we can proceed, but I have some concerns.",2025-01-20 12:35:12,Microsoft Teams,neutral
-40,Outstanding Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-22 10:29:12,Email,positive
-41,Next Steps Discussion,Can you forward me the CEO’s email please?,2025-01-25 01:44:12,Email,neutral
-42,Blocked on a Task,I’m struggling with a lack of clarity around the expectations for my role,2025-01-27 18:18:12,Slack,neutral
-43,Keep Up the Good Work!,Excellent progress. Let’s push through the final stretch!,2025-02-07 18:55:12,Email,positive
-44,Clarification Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-18 05:07:12,Microsoft Teams,negative
-45,Facing Challenges,I’m struggling with a lack of clarity around the expectations for my role,2025-01-15 03:35:12,Slack,neutral
-46,Excellent Execution!,Thanks for your hard work on this project!,2025-01-12 21:01:12,Email,negative
-47,Check-In Reminder,Can we sync up to discuss our progress on the project?,2025-02-02 23:50:12,Slack,neutral
-48,Workload Management Issues,"I’ll try to make this work, but it’s not ideal.",2025-01-12 04:30:12,Microsoft Teams,negative
-49,Great Job!,Thanks for your hard work on this project!,2025-01-30 12:14:12,Email,negative
-50,Project Update,Let’s touch base later today to go over the next steps.,2025-01-30 16:16:12,Email,negative
-51,Urgent: Need Assistance,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-16 16:34:12,Slack,positive
-52,Appreciation for Your Efforts,Excellent progress. Let’s push through the final stretch!,2025-01-18 19:46:12,Slack,positive
-53,Quick Sync Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-12 20:37:12,Email,neutral
-54,Concerns About Progress,"I’m juggling a few things at the moment, so I might need some extra time.",2025-02-01 23:38:12,Slack,negative
-55,Well Done!,Excellent progress. Let’s push through the final stretch!,2025-02-02 19:17:12,Email,positive
-56,General Inquiry,Here’s the link to the shared drive for the project files.,2025-02-03 18:45:12,Microsoft Teams,neutral
-57,Struggling with Deadlines,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-22 09:42:12,Microsoft Teams,positive
-58,Fantastic Progress,"Let’s keep it up, it looks good.",2025-01-30 20:28:12,Email,positive
-59,Meeting Rescheduled,Can we sync up to discuss our progress on the project?,2025-01-23 01:18:12,Microsoft Teams,neutral
-60,Feeling Overwhelmed,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-23 23:24:12,Email,negative
-61,Teamwork Pays Off,Excellent progress. Let’s push through the final stretch!,2025-01-14 16:28:12,Email,positive
-62,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-01-23 12:22:12,Slack,neutral
-63,Need Clarity on Expectations,This feels like it’s dragging on. Can we speed things up?,2025-01-11 08:47:12,Microsoft Teams,neutral
-64,Outstanding Work!,Let’s keep the momentum going!,2025-01-22 02:29:12,Microsoft Teams,neutral
-65,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-01-25 01:38:12,Microsoft Teams,neutral
-66,Blocked on a Task,I’m hitting a few roadblocks here. Any suggestions?,2025-01-19 03:19:12,Email,negative
-67,Keep Up the Good Work!,Thanks for your hard work on this project—it really paid off!,2025-01-12 13:35:12,Microsoft Teams,positive
-68,Clarification Needed,Let’s touch base later today to go over the next steps.,2025-01-28 21:24:12,Slack,negative
-69,Facing Challenges,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-11 04:43:12,Microsoft Teams,positive
-70,Excellent Execution!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-21 06:52:12,Microsoft Teams,positive
-71,Check-In Reminder,Let’s touch base later today to go over the next steps.,2025-01-18 01:51:12,Microsoft Teams,negative
-72,Workload Management Issues,Can someone help me with this project? I’m having trouble with...,2025-01-12 11:05:12,Email,negative
-73,Great Job!,Thanks for your hard work on this project—it really paid off!,2025-01-25 17:38:12,Email,positive
-74,Project Update,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-14 11:19:12,Slack,negative
-75,Urgent: Need Assistance,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-02-07 12:23:12,Slack,positive
-76,Appreciation for Your Efforts,Thanks for your hard work on this project—it really paid off!,2025-01-20 00:18:12,Slack,positive
-77,Quick Sync Needed,Here’s the link to the shared drive for the project files.,2025-01-10 00:22:12,Slack,neutral
-78,Concerns About Progress,I’m not sure if this is the best use of our time.,2025-01-17 12:58:12,Microsoft Teams,positive
-79,Well Done!,We’re on the right track—let’s keep pushing forward!,2025-01-21 11:47:12,Microsoft Teams,positive
-80,General Inquiry,Can you forward me the CEO’s email please?,2025-01-12 06:17:12,Email,neutral
-81,Struggling with Deadlines,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-15 04:31:12,Microsoft Teams,positive
-82,Fantastic Progress,Well done! Great teamwork,2025-01-21 10:58:12,Email,positive
-83,Meeting Rescheduled,Can you forward me the CEO’s email please?,2025-01-29 05:51:12,Slack,neutral
-84,Feeling Overwhelmed,I’m worried I won’t meet my deadlines,2025-01-11 08:32:12,Email,neutral
-85,Teamwork Pays Off,Well done! Great teamwork,2025-01-10 12:46:12,Microsoft Teams,positive
-86,Follow-Up Required,Let’s touch base later today to go over the next steps.,2025-01-16 12:50:12,Email,negative
-87,Need Clarity on Expectations,This feels like it’s dragging on. Can we speed things up?,2025-01-29 08:09:12,Slack,neutral
-88,Outstanding Work!,Thanks for your hard work on this project!,2025-01-24 16:11:12,Microsoft Teams,negative
-89,Next Steps Discussion,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-10 20:53:12,Microsoft Teams,negative
-90,Blocked on a Task,I’m struggling with a lack of clarity around the expectations for my role,2025-02-01 00:41:12,Email,neutral
-91,Keep Up the Good Work!,We’re on the right track—let’s keep pushing forward!,2025-01-22 22:01:12,Slack,positive
-92,Clarification Needed,Let’s touch base later today to go over the next steps.,2025-01-30 04:42:12,Slack,negative
-93,Facing Challenges,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-26 08:19:12,Slack,positive
-94,Excellent Execution!,Well done! Great teamwork,2025-01-29 17:17:12,Email,positive
-95,Check-In Reminder,Can we sync up to discuss our progress on the project?,2025-01-21 22:22:12,Slack,neutral
-96,Workload Management Issues,I’m worried I won’t meet my deadlines,2025-02-01 14:28:12,Slack,neutral
-97,Great Job!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-22 20:39:12,Email,positive
-98,Project Update,Can we sync up to discuss our progress on the project?,2025-01-15 21:17:12,Email,neutral
-99,Urgent: Need Assistance,"I suppose we can proceed, but I have some concerns.",2025-01-18 05:07:12,Microsoft Teams,neutral
-100,Appreciation for Your Efforts,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-23 14:45:12,Slack,positive
-101,Quick Sync Needed,Can we sync up to discuss our progress on the project?,2025-01-20 21:05:12,Email,neutral
-102,Concerns About Progress,"If that’s what everyone thinks is best, I’ll go along with it.",2025-02-02 08:15:12,Email,positive
-103,Well Done!,Thanks for your hard work on this project!,2025-01-12 17:29:12,Microsoft Teams,negative
-104,General Inquiry,Can you forward me the CEO’s email please?,2025-01-29 23:10:12,Slack,neutral
-105,Struggling with Deadlines,I’m not sure if this is the best use of our time.,2025-01-29 00:15:12,Slack,positive
-106,Fantastic Progress,"Let’s keep it up, it looks good.",2025-02-02 22:47:12,Microsoft Teams,positive
-107,Meeting Rescheduled,Let’s touch base later today to go over the next steps.,2025-01-27 16:30:12,Slack,negative
-108,Feeling Overwhelmed,There’s not enough progress so far. We need to step it up.,2025-01-21 05:54:12,Email,positive
-109,Teamwork Pays Off,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-18 18:54:12,Microsoft Teams,positive
-110,Follow-Up Required,Can we sync up to discuss our progress on the project?,2025-02-01 01:20:12,Microsoft Teams,neutral
-111,Need Clarity on Expectations,I’m not sure if this is the best use of our time.,2025-01-14 16:24:12,Slack,positive
-112,Outstanding Work!,Thanks for your hard work on this project—it really paid off!,2025-02-08 03:43:12,Slack,positive
-113,Next Steps Discussion,I’m feeling a bit unsure about this approach. What do you think?,2025-01-23 16:27:12,Email,neutral
-114,Blocked on a Task,"I suppose we can proceed, but I have some concerns.",2025-02-06 16:58:12,Microsoft Teams,neutral
-115,Keep Up the Good Work!,Thanks for your hard work on this project!,2025-01-25 01:33:12,Email,negative
-116,Clarification Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-16 05:42:12,Email,negative
-117,Facing Challenges,"I suppose we can proceed, but I have some concerns.",2025-02-01 01:49:12,Microsoft Teams,neutral
-118,Excellent Execution!,Let’s keep the momentum going!,2025-01-11 22:15:12,Microsoft Teams,neutral
-119,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-04 11:06:12,Microsoft Teams,neutral
-120,Workload Management Issues,Can someone help me with this project? I’m having trouble with...,2025-02-01 20:37:12,Microsoft Teams,negative
-121,Great Job!,Thanks for your hard work on this project!,2025-01-15 12:21:12,Slack,negative
-122,Project Update,I’m feeling a bit unsure about this approach. What do you think?,2025-01-24 07:00:12,Email,neutral
-123,Urgent: Need Assistance,This feels like it’s dragging on. Can we speed things up?,2025-01-14 11:21:12,Email,neutral
-124,Appreciation for Your Efforts,"Let’s keep it up, it looks good.",2025-01-19 18:28:12,Microsoft Teams,positive
-125,Quick Sync Needed,Can you forward me the CEO’s email please?,2025-01-31 12:07:12,Slack,neutral
-126,Concerns About Progress,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-09 22:19:12,Slack,positive
-127,Well Done!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-28 13:55:12,Email,positive
-128,General Inquiry,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-08 00:34:12,Email,neutral
-129,Struggling with Deadlines,This feels like it’s dragging on. Can we speed things up?,2025-01-23 13:57:12,Slack,neutral
-130,Fantastic Progress,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-05 20:48:12,Microsoft Teams,positive
-131,Meeting Rescheduled,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-02 09:17:12,Slack,neutral
-132,Feeling Overwhelmed,"I’m juggling a few things at the moment, so I might need some extra time.",2025-02-03 23:49:12,Microsoft Teams,negative
-133,Teamwork Pays Off,Let’s keep the momentum going!,2025-02-08 19:21:12,Email,neutral
-134,Follow-Up Required,Can you forward me the CEO’s email please?,2025-01-15 23:18:12,Email,neutral
-135,Need Clarity on Expectations,I’m swamped with deadlines this week,2025-02-05 17:41:12,Email,neutral
-136,Outstanding Work!,Well done! Great teamwork,2025-02-02 10:35:12,Microsoft Teams,positive
-137,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-02-02 05:39:12,Email,neutral
-138,Blocked on a Task,This feels like it’s dragging on. Can we speed things up?,2025-01-22 23:06:12,Slack,neutral
-139,Keep Up the Good Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-14 06:57:12,Slack,positive
-140,Clarification Needed,Let’s touch base later today to go over the next steps.,2025-02-03 00:28:12,Email,negative
-141,Facing Challenges,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-17 23:05:12,Microsoft Teams,positive
-142,Excellent Execution!,We’re on the right track—let’s keep pushing forward!,2025-01-23 12:05:12,Email,positive
-143,Check-In Reminder,I’m feeling a bit unsure about this approach. What do you think?,2025-01-23 07:42:12,Email,neutral
-144,Workload Management Issues,"I’ll try to make this work, but it’s not ideal.",2025-01-15 04:19:12,Slack,negative
-145,Great Job!,Excellent progress. Let’s push through the final stretch!,2025-02-03 07:04:12,Slack,positive
-146,Project Update,Here’s the link to the shared drive for the project files.,2025-02-02 16:27:12,Microsoft Teams,neutral
-147,Urgent: Need Assistance,"I suppose we can proceed, but I have some concerns.",2025-01-11 17:54:12,Slack,neutral
-148,Appreciation for Your Efforts,Let’s keep the momentum going!,2025-01-11 12:28:12,Microsoft Teams,neutral
-149,Quick Sync Needed,Here’s the link to the shared drive for the project files.,2025-01-21 03:02:12,Microsoft Teams,neutral
-150,Concerns About Progress,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-21 08:45:12,Slack,positive
-151,Well Done!,Excellent progress. Let’s push through the final stretch!,2025-02-02 22:48:12,Email,positive
-152,General Inquiry,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-07 09:06:12,Slack,neutral
-153,Struggling with Deadlines,I’m struggling with a lack of clarity around the expectations for my role,2025-01-14 20:51:12,Email,neutral
-154,Fantastic Progress,Excellent progress. Let’s push through the final stretch!,2025-01-13 16:35:12,Email,positive
-155,Meeting Rescheduled,Here’s the link to the shared drive for the project files.,2025-01-11 16:41:12,Email,neutral
-156,Feeling Overwhelmed,Can someone help me with this project? I’m having trouble with...,2025-01-29 16:14:12,Microsoft Teams,negative
-157,Teamwork Pays Off,Thanks for your hard work on this project—it really paid off!,2025-02-06 21:57:12,Microsoft Teams,positive
-158,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-01-10 19:05:12,Microsoft Teams,neutral
-159,Need Clarity on Expectations,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-20 09:42:12,Email,negative
-160,Outstanding Work!,Excellent progress. Let’s push through the final stretch!,2025-01-22 22:33:12,Microsoft Teams,positive
-161,Next Steps Discussion,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-17 10:56:12,Microsoft Teams,neutral
-162,Blocked on a Task,"I suppose we can proceed, but I have some concerns.",2025-02-07 02:41:12,Slack,neutral
-163,Keep Up the Good Work!,Excellent progress. Let’s push through the final stretch!,2025-02-04 20:36:12,Slack,positive
-164,Clarification Needed,I’m feeling a bit unsure about this approach. What do you think?,2025-01-30 10:28:12,Email,neutral
-165,Facing Challenges,I’m hitting a few roadblocks here. Any suggestions?,2025-01-16 06:51:12,Slack,negative
-166,Excellent Execution!,Excellent progress. Let’s push through the final stretch!,2025-01-17 16:56:12,Email,positive
-167,Check-In Reminder,I’m feeling a bit unsure about this approach. What do you think?,2025-02-05 16:00:12,Email,neutral
-168,Workload Management Issues,Can someone help me with this project? I’m having trouble with...,2025-01-12 06:52:12,Microsoft Teams,negative
-169,Great Job!,Excellent progress. Let’s push through the final stretch!,2025-01-14 02:56:12,Microsoft Teams,positive
-170,Project Update,Can you forward me the CEO’s email please?,2025-01-25 03:41:12,Microsoft Teams,neutral
-171,Urgent: Need Assistance,"I’ll try to make this work, but it’s not ideal.",2025-02-05 08:20:12,Email,negative
-172,Appreciation for Your Efforts,"Let’s keep it up, it looks good.",2025-01-23 21:24:12,Slack,positive
-173,Quick Sync Needed,Can we sync up to discuss our progress on the project?,2025-01-13 18:37:12,Email,neutral
-174,Concerns About Progress,"I suppose we can proceed, but I have some concerns.",2025-02-08 01:57:12,Microsoft Teams,neutral
-175,Well Done!,Let’s keep the momentum going!,2025-02-05 06:11:12,Email,neutral
-176,General Inquiry,I’m feeling a bit unsure about this approach. What do you think?,2025-01-15 22:36:12,Slack,neutral
-177,Struggling with Deadlines,I’m swamped with deadlines this week,2025-01-12 00:48:12,Email,neutral
-178,Fantastic Progress,"Let’s keep it up, it looks good.",2025-02-06 03:55:12,Email,positive
-179,Meeting Rescheduled,I’m feeling a bit unsure about this approach. What do you think?,2025-01-14 00:44:12,Microsoft Teams,neutral
-180,Feeling Overwhelmed,There’s not enough progress so far. We need to step it up.,2025-01-29 23:48:12,Microsoft Teams,positive
-181,Teamwork Pays Off,Thanks for your hard work on this project!,2025-02-01 19:56:12,Slack,negative
-182,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-02-01 07:31:12,Microsoft Teams,neutral
-183,Need Clarity on Expectations,"I’ll try to make this work, but it’s not ideal.",2025-02-02 10:06:12,Email,negative
-184,Outstanding Work!,Thanks for your hard work on this project!,2025-01-27 04:15:12,Email,negative
-185,Next Steps Discussion,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-02-07 02:06:12,Email,negative
-186,Blocked on a Task,I’m hitting a few roadblocks here. Any suggestions?,2025-02-01 04:47:12,Microsoft Teams,negative
-187,Keep Up the Good Work!,Well done! Great teamwork,2025-01-28 06:08:12,Microsoft Teams,positive
-188,Clarification Needed,Can we sync up to discuss our progress on the project?,2025-01-28 08:22:12,Slack,neutral
-189,Facing Challenges,I’m not sure if this is the best use of our time.,2025-02-02 07:21:12,Microsoft Teams,positive
-190,Excellent Execution!,We’re on the right track—let’s keep pushing forward!,2025-01-30 06:25:12,Microsoft Teams,positive
-191,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-14 18:02:12,Slack,neutral
-192,Workload Management Issues,I’m hitting a few roadblocks here. Any suggestions?,2025-01-26 14:26:12,Slack,negative
-193,Great Job!,Thanks for your hard work on this project—it really paid off!,2025-01-16 03:09:12,Email,positive
-194,Project Update,Here’s the link to the shared drive for the project files.,2025-01-28 13:42:12,Slack,neutral
-195,Urgent: Need Assistance,There’s not enough progress so far. We need to step it up.,2025-02-02 21:29:12,Email,positive
-196,Appreciation for Your Efforts,Well done! Great teamwork,2025-01-12 14:22:12,Microsoft Teams,positive
-197,Quick Sync Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-11 03:36:12,Slack,negative
-198,Concerns About Progress,"I’m juggling a few things at the moment, so I might need some extra time.",2025-02-05 20:07:12,Microsoft Teams,negative
-199,Well Done!,Let’s keep the momentum going!,2025-01-29 07:04:12,Slack,neutral
-200,General Inquiry,Here’s the link to the shared drive for the project files.,2025-01-15 04:15:12,Email,neutral
-201,Struggling with Deadlines,"I suppose we can proceed, but I have some concerns.",2025-01-12 05:42:12,Microsoft Teams,neutral
-202,Fantastic Progress,Excellent progress. Let’s push through the final stretch!,2025-02-02 00:20:12,Slack,positive
-203,Meeting Rescheduled,Here’s the link to the shared drive for the project files.,2025-01-18 13:22:12,Microsoft Teams,neutral
-204,Feeling Overwhelmed,I’m worried I won’t meet my deadlines,2025-01-28 18:20:12,Email,neutral
-205,Teamwork Pays Off,"Let’s keep it up, it looks good.",2025-01-30 18:13:12,Slack,positive
-206,Follow-Up Required,I’m feeling a bit unsure about this approach. What do you think?,2025-01-14 18:09:12,Slack,neutral
-207,Need Clarity on Expectations,I’m not sure if this is the best use of our time.,2025-01-25 05:08:12,Microsoft Teams,positive
-208,Outstanding Work!,We’re on the right track—let’s keep pushing forward!,2025-01-23 18:41:12,Email,positive
-209,Next Steps Discussion,Can you forward me the CEO’s email please?,2025-01-12 10:01:12,Slack,neutral
-210,Blocked on a Task,"I’ll try to make this work, but it’s not ideal.",2025-02-04 08:14:12,Microsoft Teams,negative
-211,Keep Up the Good Work!,Excellent progress. Let’s push through the final stretch!,2025-01-15 16:05:12,Email,positive
-212,Clarification Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-19 14:56:12,Email,neutral
-213,Facing Challenges,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-25 01:00:12,Microsoft Teams,negative
-214,Excellent Execution!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-17 16:50:12,Slack,positive
-215,Check-In Reminder,Can you forward me the CEO’s email please?,2025-01-17 15:15:12,Microsoft Teams,neutral
-216,Workload Management Issues,I’m worried I won’t meet my deadlines,2025-01-22 03:23:12,Slack,neutral
-217,Great Job!,Excellent progress. Let’s push through the final stretch!,2025-01-29 14:32:12,Microsoft Teams,positive
-218,Project Update,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-02-06 17:58:12,Email,negative
-219,Urgent: Need Assistance,There’s not enough progress so far. We need to step it up.,2025-01-15 22:58:12,Slack,positive
-220,Appreciation for Your Efforts,Let’s keep the momentum going!,2025-01-25 09:28:12,Slack,neutral
-221,Quick Sync Needed,I’m feeling a bit unsure about this approach. What do you think?,2025-01-16 09:05:12,Microsoft Teams,neutral
-222,Concerns About Progress,This feels like it’s dragging on. Can we speed things up?,2025-02-02 05:23:12,Email,neutral
-223,Well Done!,Thanks for your hard work on this project!,2025-01-10 17:32:12,Slack,negative
-224,General Inquiry,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-13 11:04:12,Microsoft Teams,negative
-225,Struggling with Deadlines,"If that’s what everyone thinks is best, I’ll go along with it.",2025-02-04 15:07:12,Microsoft Teams,positive
-226,Fantastic Progress,Let’s keep the momentum going!,2025-01-11 21:25:12,Microsoft Teams,neutral
-227,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-23 21:32:12,Email,negative
-228,Feeling Overwhelmed,Can someone help me with this project? I’m having trouble with...,2025-01-10 23:34:12,Microsoft Teams,negative
-229,Teamwork Pays Off,We’re on the right track—let’s keep pushing forward!,2025-01-13 11:43:12,Email,positive
-230,Follow-Up Required,Can you forward me the CEO’s email please?,2025-01-25 01:51:12,Email,neutral
-231,Need Clarity on Expectations,I’m hitting a few roadblocks here. Any suggestions?,2025-01-28 15:16:12,Email,negative
-232,Outstanding Work!,We’re on the right track—let’s keep pushing forward!,2025-01-31 23:39:12,Email,positive
-233,Next Steps Discussion,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-06 13:45:12,Slack,neutral
-234,Blocked on a Task,"I’ll try to make this work, but it’s not ideal.",2025-01-31 00:33:12,Slack,negative
-235,Keep Up the Good Work!,Well done! Great teamwork,2025-02-02 22:26:12,Slack,positive
-236,Clarification Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-05 00:39:12,Microsoft Teams,neutral
-237,Facing Challenges,There’s not enough progress so far. We need to step it up.,2025-01-11 19:51:12,Microsoft Teams,positive
-238,Excellent Execution!,We’re on the right track—let’s keep pushing forward!,2025-01-16 10:41:12,Slack,positive
-239,Check-In Reminder,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-26 08:32:12,Email,negative
-240,Workload Management Issues,This feels like it’s dragging on. Can we speed things up?,2025-01-11 15:12:12,Email,neutral
-241,Great Job!,Thanks for your hard work on this project!,2025-01-14 11:20:12,Microsoft Teams,negative
-242,Project Update,Can we sync up to discuss our progress on the project?,2025-02-04 22:03:12,Email,neutral
-243,Urgent: Need Assistance,"I’ll try to make this work, but it’s not ideal.",2025-01-10 07:44:12,Slack,negative
-244,Appreciation for Your Efforts,Thanks for your hard work on this project—it really paid off!,2025-02-03 11:10:12,Email,positive
-245,Quick Sync Needed,Let’s touch base later today to go over the next steps.,2025-02-07 20:49:12,Slack,negative
-246,Concerns About Progress,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-02-06 18:10:12,Email,positive
-247,Well Done!,Excellent progress. Let’s push through the final stretch!,2025-01-14 23:55:12,Email,positive
-248,General Inquiry,I’m feeling a bit unsure about this approach. What do you think?,2025-01-18 23:19:12,Email,neutral
-249,Struggling with Deadlines,"I suppose we can proceed, but I have some concerns.",2025-01-20 01:19:12,Slack,neutral
-250,Fantastic Progress,Let’s keep the momentum going!,2025-01-14 11:18:12,Microsoft Teams,neutral
-251,Meeting Rescheduled,Let’s touch base later today to go over the next steps.,2025-01-18 21:57:12,Microsoft Teams,negative
-252,Feeling Overwhelmed,I’m struggling with a lack of clarity around the expectations for my role,2025-01-16 02:16:12,Slack,neutral
-253,Teamwork Pays Off,Thanks for your hard work on this project!,2025-01-15 11:41:12,Slack,negative
-254,Follow-Up Required,Let’s touch base later today to go over the next steps.,2025-01-11 11:04:12,Slack,negative
-255,Need Clarity on Expectations,I’m struggling with a lack of clarity around the expectations for my role,2025-01-30 13:12:12,Microsoft Teams,neutral
-256,Outstanding Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-06 00:23:12,Microsoft Teams,positive
-257,Next Steps Discussion,I’m feeling a bit unsure about this approach. What do you think?,2025-01-20 20:27:12,Slack,neutral
-258,Blocked on a Task,"I’m juggling a few things at the moment, so I might need some extra time.",2025-02-02 18:35:12,Microsoft Teams,negative
-259,Keep Up the Good Work!,Well done! Great teamwork,2025-01-22 16:23:12,Email,positive
-260,Clarification Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-11 15:58:12,Email,neutral
-261,Facing Challenges,I’m hitting a few roadblocks here. Any suggestions?,2025-01-27 02:59:12,Slack,negative
-262,Excellent Execution!,Well done! Great teamwork,2025-01-15 14:57:12,Microsoft Teams,positive
-263,Check-In Reminder,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-14 05:27:12,Email,negative
-264,Workload Management Issues,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-31 22:59:12,Slack,positive
-265,Great Job!,Excellent progress. Let’s push through the final stretch!,2025-01-31 07:11:12,Microsoft Teams,positive
-266,Project Update,Can we sync up to discuss our progress on the project?,2025-01-14 16:06:12,Email,neutral
-267,Urgent: Need Assistance,This feels like it’s dragging on. Can we speed things up?,2025-01-20 19:16:12,Slack,neutral
-268,Appreciation for Your Efforts,Excellent progress. Let’s push through the final stretch!,2025-01-13 17:26:12,Microsoft Teams,positive
-269,Quick Sync Needed,Let’s touch base later today to go over the next steps.,2025-01-15 13:51:12,Email,negative
-270,Concerns About Progress,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-10 15:42:12,Microsoft Teams,positive
-271,Well Done!,Let’s keep the momentum going!,2025-01-19 10:00:12,Slack,neutral
-272,General Inquiry,Can we sync up to discuss our progress on the project?,2025-01-27 04:41:12,Email,neutral
-273,Struggling with Deadlines,I’m not sure if this is the best use of our time.,2025-01-26 04:35:12,Email,positive
-274,Fantastic Progress,Thanks for your hard work on this project!,2025-01-31 09:32:12,Microsoft Teams,negative
-275,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-31 09:09:12,Email,negative
-276,Feeling Overwhelmed,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-30 03:04:12,Slack,negative
-277,Teamwork Pays Off,We’re on the right track—let’s keep pushing forward!,2025-01-18 02:31:12,Email,positive
-278,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-01-16 15:34:12,Slack,neutral
-279,Need Clarity on Expectations,I’m swamped with deadlines this week,2025-01-27 13:37:12,Email,neutral
-280,Outstanding Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-21 16:26:12,Microsoft Teams,positive
-281,Next Steps Discussion,Let’s touch base later today to go over the next steps.,2025-02-04 17:05:12,Slack,negative
-282,Blocked on a Task,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-24 11:59:12,Email,positive
-283,Keep Up the Good Work!,"Let’s keep it up, it looks good.",2025-01-23 22:37:12,Email,positive
-284,Clarification Needed,Let’s touch base later today to go over the next steps.,2025-02-08 07:34:12,Email,negative
-285,Facing Challenges,I’m worried I won’t meet my deadlines,2025-01-13 14:12:12,Slack,neutral
-286,Excellent Execution!,We’re on the right track—let’s keep pushing forward!,2025-01-26 04:36:12,Slack,positive
-287,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-11 13:10:12,Email,neutral
-288,Workload Management Issues,This feels like it’s dragging on. Can we speed things up?,2025-01-22 21:21:12,Slack,neutral
-289,Great Job!,Thanks for your hard work on this project!,2025-01-25 21:54:12,Email,negative
-290,Project Update,Can you forward me the CEO’s email please?,2025-01-20 05:35:12,Email,neutral
-291,Urgent: Need Assistance,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-20 02:17:12,Microsoft Teams,negative
-292,Appreciation for Your Efforts,We’re on the right track—let’s keep pushing forward!,2025-01-31 03:28:12,Slack,positive
-293,Quick Sync Needed,Let’s touch base later today to go over the next steps.,2025-02-08 02:00:12,Slack,negative
-294,Concerns About Progress,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-17 00:05:12,Email,negative
-295,Well Done!,"Let’s keep it up, it looks good.",2025-01-21 12:36:12,Slack,positive
-296,General Inquiry,Let’s touch base later today to go over the next steps.,2025-01-17 12:02:12,Slack,negative
-297,Struggling with Deadlines,I’m worried I won’t meet my deadlines,2025-01-17 19:40:12,Email,neutral
-298,Fantastic Progress,We’re on the right track—let’s keep pushing forward!,2025-02-01 00:20:12,Microsoft Teams,positive
-299,Meeting Rescheduled,Can you forward me the CEO’s email please?,2025-01-29 07:01:12,Slack,neutral
-300,Feeling Overwhelmed,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-31 17:36:12,Microsoft Teams,positive
-301,Teamwork Pays Off,Let’s keep the momentum going!,2025-02-04 21:22:12,Slack,neutral
-302,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-01-10 21:40:12,Email,neutral
-303,Need Clarity on Expectations,There’s not enough progress so far. We need to step it up.,2025-01-22 22:58:12,Slack,positive
-304,Outstanding Work!,We’re on the right track—let’s keep pushing forward!,2025-01-11 08:15:12,Email,positive
-305,Next Steps Discussion,Can you forward me the CEO’s email please?,2025-02-07 16:37:12,Microsoft Teams,neutral
-306,Blocked on a Task,This feels like it’s dragging on. Can we speed things up?,2025-01-26 20:09:12,Microsoft Teams,neutral
-307,Keep Up the Good Work!,We’re on the right track—let’s keep pushing forward!,2025-02-01 15:57:12,Microsoft Teams,positive
-308,Clarification Needed,I’m feeling a bit unsure about this approach. What do you think?,2025-01-29 03:49:12,Slack,neutral
-309,Facing Challenges,I’m worried I won’t meet my deadlines,2025-02-02 06:22:12,Microsoft Teams,neutral
-310,Excellent Execution!,Excellent progress. Let’s push through the final stretch!,2025-02-03 17:10:12,Slack,positive
-311,Check-In Reminder,I’m feeling a bit unsure about this approach. What do you think?,2025-01-29 05:39:12,Email,neutral
-312,Workload Management Issues,Can someone help me with this project? I’m having trouble with...,2025-01-27 17:39:12,Email,negative
-313,Great Job!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-14 09:18:12,Microsoft Teams,positive
-314,Project Update,Can we sync up to discuss our progress on the project?,2025-02-03 22:19:12,Slack,neutral
-315,Urgent: Need Assistance,"I suppose we can proceed, but I have some concerns.",2025-02-04 17:14:12,Slack,neutral
-316,Appreciation for Your Efforts,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-09 21:59:12,Email,positive
-317,Quick Sync Needed,Here’s the link to the shared drive for the project files.,2025-02-04 16:54:12,Email,neutral
-318,Concerns About Progress,There’s not enough progress so far. We need to step it up.,2025-02-04 06:36:12,Email,positive
-319,Well Done!,Thanks for your hard work on this project!,2025-01-13 23:02:12,Email,negative
-320,General Inquiry,Let’s touch base later today to go over the next steps.,2025-02-02 16:05:12,Slack,negative
-321,Struggling with Deadlines,This feels like it’s dragging on. Can we speed things up?,2025-01-31 19:04:12,Microsoft Teams,neutral
-322,Fantastic Progress,We’re on the right track—let’s keep pushing forward!,2025-01-17 15:37:12,Microsoft Teams,positive
-323,Meeting Rescheduled,I’m feeling a bit unsure about this approach. What do you think?,2025-01-28 18:12:12,Microsoft Teams,neutral
-324,Feeling Overwhelmed,I’m not sure if this is the best use of our time.,2025-01-30 05:49:12,Slack,positive
-325,Teamwork Pays Off,Thanks for your hard work on this project—it really paid off!,2025-02-04 02:06:12,Slack,positive
-326,Follow-Up Required,Can you forward me the CEO’s email please?,2025-01-31 12:18:12,Email,neutral
-327,Need Clarity on Expectations,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-13 10:35:12,Slack,negative
-328,Outstanding Work!,Well done! Great teamwork,2025-02-06 22:20:12,Email,positive
-329,Next Steps Discussion,Can we sync up to discuss our progress on the project?,2025-01-31 23:53:12,Microsoft Teams,neutral
-330,Blocked on a Task,I’m not sure if this is the best use of our time.,2025-01-21 21:20:12,Microsoft Teams,positive
-331,Keep Up the Good Work!,"Let’s keep it up, it looks good.",2025-01-24 06:45:12,Email,positive
-332,Clarification Needed,I’m feeling a bit unsure about this approach. What do you think?,2025-01-27 18:44:12,Microsoft Teams,neutral
-333,Facing Challenges,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-16 20:11:12,Slack,negative
-334,Excellent Execution!,Let’s keep the momentum going!,2025-01-14 18:43:12,Microsoft Teams,neutral
-335,Check-In Reminder,Here’s the link to the shared drive for the project files.,2025-02-02 06:03:12,Microsoft Teams,neutral
-336,Workload Management Issues,"I’m juggling a few things at the moment, so I might need some extra time.",2025-02-06 06:28:12,Slack,negative
-337,Great Job!,Excellent progress. Let’s push through the final stretch!,2025-01-10 12:28:12,Slack,positive
-338,Project Update,Let’s touch base later today to go over the next steps.,2025-02-08 00:31:12,Email,negative
-339,Urgent: Need Assistance,I’m not sure if this is the best use of our time.,2025-01-22 11:26:12,Slack,positive
-340,Appreciation for Your Efforts,Well done! Great teamwork,2025-02-05 11:30:12,Microsoft Teams,positive
-341,Quick Sync Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-13 17:04:12,Microsoft Teams,negative
-342,Concerns About Progress,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-10 02:14:12,Microsoft Teams,negative
-343,Well Done!,Thanks for your hard work on this project!,2025-01-17 11:18:12,Email,negative
-344,General Inquiry,I’m feeling a bit unsure about this approach. What do you think?,2025-01-24 05:54:12,Email,neutral
-345,Struggling with Deadlines,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-13 14:13:12,Microsoft Teams,positive
-346,Fantastic Progress,Well done! Great teamwork,2025-01-21 11:59:12,Microsoft Teams,positive
-347,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-23 04:40:12,Microsoft Teams,negative
-348,Feeling Overwhelmed,I’m worried I won’t meet my deadlines,2025-02-08 06:11:12,Slack,neutral
-349,Teamwork Pays Off,Thanks for your hard work on this project!,2025-01-10 02:58:12,Email,negative
-350,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-02-07 10:56:12,Email,neutral
-351,Need Clarity on Expectations,I’m swamped with deadlines this week,2025-01-26 22:50:12,Email,neutral
-352,Outstanding Work!,Thanks for your hard work on this project!,2025-01-31 08:12:12,Email,negative
-353,Next Steps Discussion,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-13 01:30:12,Microsoft Teams,neutral
-354,Blocked on a Task,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-28 14:40:12,Microsoft Teams,positive
-355,Keep Up the Good Work!,Thanks for your hard work on this project!,2025-02-07 18:41:12,Slack,negative
-356,Clarification Needed,Can we sync up to discuss our progress on the project?,2025-01-13 10:55:12,Email,neutral
-357,Facing Challenges,"I’ll try to make this work, but it’s not ideal.",2025-01-14 05:55:12,Slack,negative
-358,Excellent Execution!,Thanks for your hard work on this project!,2025-01-21 10:23:12,Email,negative
-359,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-30 01:31:12,Microsoft Teams,neutral
-360,Workload Management Issues,There’s not enough progress so far. We need to step it up.,2025-01-10 01:11:12,Email,positive
-361,Great Job!,Well done! Great teamwork,2025-01-30 17:18:12,Slack,positive
-362,Project Update,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-10 03:58:12,Microsoft Teams,negative
-363,Urgent: Need Assistance,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-11 09:08:12,Microsoft Teams,negative
-364,Appreciation for Your Efforts,Excellent progress. Let’s push through the final stretch!,2025-01-30 07:42:12,Email,positive
-365,Quick Sync Needed,Here’s the link to the shared drive for the project files.,2025-01-14 11:12:12,Email,neutral
-366,Concerns About Progress,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-02-05 16:36:12,Slack,positive
-367,Well Done!,Thanks for your hard work on this project!,2025-01-16 08:08:12,Microsoft Teams,negative
-368,General Inquiry,Let’s touch base later today to go over the next steps.,2025-01-19 17:41:12,Microsoft Teams,negative
-369,Struggling with Deadlines,I’m not sure if this is the best use of our time.,2025-01-30 02:01:12,Slack,positive
-370,Fantastic Progress,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-13 19:10:12,Slack,positive
-371,Meeting Rescheduled,Can we sync up to discuss our progress on the project?,2025-01-15 16:45:12,Slack,neutral
-372,Feeling Overwhelmed,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-12 12:25:12,Slack,positive
-373,Teamwork Pays Off,"Let’s keep it up, it looks good.",2025-02-04 18:12:12,Email,positive
-374,Follow-Up Required,I’m feeling a bit unsure about this approach. What do you think?,2025-01-26 03:36:12,Slack,neutral
-375,Need Clarity on Expectations,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-02-02 23:26:12,Microsoft Teams,positive
-376,Outstanding Work!,Let’s keep the momentum going!,2025-01-29 02:46:12,Slack,neutral
-377,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-01-12 09:28:12,Microsoft Teams,neutral
-378,Blocked on a Task,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-12 05:27:12,Slack,positive
-379,Keep Up the Good Work!,Thanks for your hard work on this project—it really paid off!,2025-01-23 23:45:12,Slack,positive
-380,Clarification Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-28 18:19:12,Email,negative
-381,Facing Challenges,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-02-02 06:35:12,Slack,positive
-382,Excellent Execution!,Let’s keep the momentum going!,2025-02-02 03:52:12,Microsoft Teams,neutral
-383,Check-In Reminder,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-23 13:26:12,Slack,negative
-384,Workload Management Issues,There’s not enough progress so far. We need to step it up.,2025-01-17 20:34:12,Slack,positive
-385,Great Job!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-22 19:39:12,Slack,positive
-386,Project Update,Can we sync up to discuss our progress on the project?,2025-01-19 14:49:12,Slack,neutral
-387,Urgent: Need Assistance,I’m struggling with a lack of clarity around the expectations for my role,2025-01-18 19:27:12,Email,neutral
-388,Appreciation for Your Efforts,Thanks for your hard work on this project—it really paid off!,2025-02-08 14:23:12,Slack,positive
-389,Quick Sync Needed,Can you forward me the CEO’s email please?,2025-01-19 08:13:12,Slack,neutral
-390,Concerns About Progress,I’m struggling with a lack of clarity around the expectations for my role,2025-01-16 02:55:12,Microsoft Teams,neutral
-391,Well Done!,"Let’s keep it up, it looks good.",2025-02-08 09:37:12,Email,positive
-392,General Inquiry,Here’s the link to the shared drive for the project files.,2025-01-13 09:06:12,Email,neutral
-393,Struggling with Deadlines,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-25 21:50:12,Microsoft Teams,positive
-394,Fantastic Progress,Let’s keep the momentum going!,2025-01-15 19:07:12,Email,neutral
-395,Meeting Rescheduled,Let’s touch base later today to go over the next steps.,2025-01-30 14:21:12,Microsoft Teams,negative
-396,Feeling Overwhelmed,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-22 08:20:12,Slack,negative
-397,Teamwork Pays Off,"Let’s keep it up, it looks good.",2025-01-16 13:44:12,Slack,positive
-398,Follow-Up Required,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-16 20:11:12,Slack,negative
-399,Need Clarity on Expectations,This feels like it’s dragging on. Can we speed things up?,2025-01-18 08:49:12,Slack,neutral
-400,Outstanding Work!,Let’s keep the momentum going!,2025-01-30 06:24:12,Email,neutral
-401,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-02-08 05:37:12,Microsoft Teams,neutral
-402,Blocked on a Task,I’m swamped with deadlines this week,2025-01-11 14:03:12,Slack,neutral
-403,Keep Up the Good Work!,"Let’s keep it up, it looks good.",2025-01-25 07:23:12,Microsoft Teams,positive
-404,Clarification Needed,Can you forward me the CEO’s email please?,2025-01-14 12:28:12,Slack,neutral
-405,Facing Challenges,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-17 04:12:12,Slack,positive
-406,Excellent Execution!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-12 11:54:12,Email,positive
-407,Check-In Reminder,I’m feeling a bit unsure about this approach. What do you think?,2025-01-15 11:02:12,Slack,neutral
-408,Workload Management Issues,There’s not enough progress so far. We need to step it up.,2025-01-18 00:12:12,Slack,positive
-409,Great Job!,Thanks for your hard work on this project—it really paid off!,2025-02-07 09:49:12,Email,positive
-410,Project Update,Can we sync up to discuss our progress on the project?,2025-01-21 01:36:12,Slack,neutral
-411,Urgent: Need Assistance,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-27 19:30:12,Slack,negative
-412,Appreciation for Your Efforts,Well done! Great teamwork,2025-01-26 03:35:12,Microsoft Teams,positive
-413,Quick Sync Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-29 03:51:12,Slack,negative
-414,Concerns About Progress,I’m struggling with a lack of clarity around the expectations for my role,2025-01-12 21:15:12,Slack,neutral
-415,Well Done!,We’re on the right track—let’s keep pushing forward!,2025-01-29 03:58:12,Microsoft Teams,positive
-416,General Inquiry,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-25 09:17:12,Email,negative
-417,Struggling with Deadlines,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-14 04:03:12,Microsoft Teams,positive
-418,Fantastic Progress,We’re on the right track—let’s keep pushing forward!,2025-01-25 17:11:12,Email,positive
-419,Meeting Rescheduled,I’m feeling a bit unsure about this approach. What do you think?,2025-01-16 13:19:12,Microsoft Teams,neutral
-420,Feeling Overwhelmed,I’m struggling with a lack of clarity around the expectations for my role,2025-02-05 09:00:12,Email,neutral
-421,Teamwork Pays Off,"Let’s keep it up, it looks good.",2025-01-12 21:42:12,Microsoft Teams,positive
-422,Follow-Up Required,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-31 20:00:12,Microsoft Teams,neutral
-423,Need Clarity on Expectations,I’m swamped with deadlines this week,2025-01-24 11:27:12,Email,neutral
-424,Outstanding Work!,Well done! Great teamwork,2025-01-22 10:31:12,Slack,positive
-425,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-01-29 10:39:12,Microsoft Teams,neutral
-426,Blocked on a Task,I’m not sure if this is the best use of our time.,2025-01-25 18:35:12,Email,positive
-427,Keep Up the Good Work!,Thanks for your hard work on this project!,2025-01-12 13:38:12,Microsoft Teams,negative
-428,Clarification Needed,Let’s touch base later today to go over the next steps.,2025-01-10 08:25:12,Slack,negative
-429,Facing Challenges,"I’ll try to make this work, but it’s not ideal.",2025-01-21 02:20:12,Slack,negative
-430,Excellent Execution!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-08 09:16:12,Slack,positive
-431,Check-In Reminder,Can we sync up to discuss our progress on the project?,2025-01-13 08:05:12,Slack,neutral
-432,Workload Management Issues,Can someone help me with this project? I’m having trouble with...,2025-01-19 01:08:12,Slack,negative
-433,Great Job!,We’re on the right track—let’s keep pushing forward!,2025-01-20 03:16:12,Microsoft Teams,positive
-434,Project Update,Let’s touch base later today to go over the next steps.,2025-01-27 14:36:12,Email,negative
-435,Urgent: Need Assistance,"I’ll try to make this work, but it’s not ideal.",2025-02-05 09:11:12,Microsoft Teams,negative
-436,Appreciation for Your Efforts,Excellent progress. Let’s push through the final stretch!,2025-02-06 04:20:12,Microsoft Teams,positive
-437,Quick Sync Needed,Here’s the link to the shared drive for the project files.,2025-01-14 01:07:12,Slack,neutral
-438,Concerns About Progress,This feels like it’s dragging on. Can we speed things up?,2025-01-24 03:57:12,Slack,neutral
-439,Well Done!,Thanks for your hard work on this project!,2025-01-26 01:21:12,Email,negative
-440,General Inquiry,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-27 10:35:12,Microsoft Teams,neutral
-441,Struggling with Deadlines,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-14 08:09:12,Slack,positive
-442,Fantastic Progress,"Let’s keep it up, it looks good.",2025-02-08 13:15:12,Microsoft Teams,positive
-443,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-02-02 10:43:12,Microsoft Teams,negative
-444,Feeling Overwhelmed,I’m worried I won’t meet my deadlines,2025-01-11 19:26:12,Email,neutral
-445,Teamwork Pays Off,We’re on the right track—let’s keep pushing forward!,2025-01-12 15:44:12,Microsoft Teams,positive
-446,Follow-Up Required,Can you forward me the CEO’s email please?,2025-02-06 22:13:12,Email,neutral
-447,Need Clarity on Expectations,"I suppose we can proceed, but I have some concerns.",2025-01-17 17:05:12,Email,neutral
-448,Outstanding Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-01 15:06:12,Slack,positive
-449,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-02-04 10:47:12,Email,neutral
-450,Blocked on a Task,"I’ll try to make this work, but it’s not ideal.",2025-02-04 15:02:12,Slack,negative
-451,Keep Up the Good Work!,Thanks for your hard work on this project—it really paid off!,2025-01-19 14:25:12,Slack,positive
-452,Clarification Needed,I’m feeling a bit unsure about this approach. What do you think?,2025-01-30 11:18:12,Microsoft Teams,neutral
-453,Facing Challenges,"If that’s what everyone thinks is best, I’ll go along with it.",2025-02-02 12:48:12,Email,positive
-454,Excellent Execution!,Thanks for your hard work on this project!,2025-02-04 04:40:12,Microsoft Teams,negative
-455,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-06 02:29:12,Microsoft Teams,neutral
-456,Workload Management Issues,"If that’s what everyone thinks is best, I’ll go along with it.",2025-02-05 04:44:12,Email,positive
-457,Great Job!,Let’s keep the momentum going!,2025-01-18 16:25:12,Microsoft Teams,neutral
-458,Project Update,Can we sync up to discuss our progress on the project?,2025-01-12 06:58:12,Email,neutral
-459,Urgent: Need Assistance,This feels like it’s dragging on. Can we speed things up?,2025-02-05 11:43:12,Slack,neutral
-460,Appreciation for Your Efforts,Let’s keep the momentum going!,2025-01-15 09:40:12,Email,neutral
-461,Quick Sync Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-16 18:41:12,Microsoft Teams,neutral
-462,Concerns About Progress,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-10 22:17:12,Email,positive
-463,Well Done!,Thanks for your hard work on this project!,2025-01-29 22:35:12,Email,negative
-464,General Inquiry,I’m feeling a bit unsure about this approach. What do you think?,2025-02-08 17:15:12,Slack,neutral
-465,Struggling with Deadlines,"I suppose we can proceed, but I have some concerns.",2025-01-16 12:53:12,Email,neutral
-466,Fantastic Progress,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-31 17:30:12,Microsoft Teams,positive
-467,Meeting Rescheduled,Let’s touch base later today to go over the next steps.,2025-01-22 17:35:12,Microsoft Teams,negative
-468,Feeling Overwhelmed,This feels like it’s dragging on. Can we speed things up?,2025-01-27 19:22:12,Email,neutral
-469,Teamwork Pays Off,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-02 21:04:12,Slack,positive
-470,Follow-Up Required,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-31 02:54:12,Microsoft Teams,negative
-471,Need Clarity on Expectations,Can someone help me with this project? I’m having trouble with...,2025-02-08 00:29:12,Microsoft Teams,negative
-472,Outstanding Work!,Well done! Great teamwork,2025-01-14 15:41:12,Microsoft Teams,positive
-473,Next Steps Discussion,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-22 05:27:12,Slack,neutral
-474,Blocked on a Task,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-31 23:50:12,Email,positive
-475,Keep Up the Good Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-27 22:55:12,Slack,positive
-476,Clarification Needed,Can we sync up to discuss our progress on the project?,2025-02-04 03:33:12,Microsoft Teams,neutral
-477,Facing Challenges,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-26 09:04:12,Email,negative
-478,Excellent Execution!,Excellent progress. Let’s push through the final stretch!,2025-02-06 10:50:12,Email,positive
-479,Check-In Reminder,I’m feeling a bit unsure about this approach. What do you think?,2025-01-21 22:05:12,Microsoft Teams,neutral
-480,Workload Management Issues,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-16 20:34:12,Microsoft Teams,positive
-481,Great Job!,Let’s keep the momentum going!,2025-01-15 06:06:12,Email,neutral
-482,Project Update,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-05 16:59:12,Email,neutral
-483,Urgent: Need Assistance,I’m swamped with deadlines this week,2025-02-02 18:28:12,Microsoft Teams,neutral
-484,Appreciation for Your Efforts,We’re on the right track—let’s keep pushing forward!,2025-02-06 21:58:12,Microsoft Teams,positive
-485,Quick Sync Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-30 15:49:12,Email,negative
-486,Concerns About Progress,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-17 23:13:12,Email,positive
-487,Well Done!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-07 17:39:12,Slack,positive
-488,General Inquiry,Can we sync up to discuss our progress on the project?,2025-01-25 01:30:12,Microsoft Teams,neutral
-489,Struggling with Deadlines,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-17 17:15:12,Microsoft Teams,positive
-490,Fantastic Progress,Well done! Great teamwork,2025-02-01 10:51:12,Email,positive
-491,Meeting Rescheduled,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-31 00:25:12,Microsoft Teams,neutral
-492,Feeling Overwhelmed,I’m not sure if this is the best use of our time.,2025-01-29 10:31:12,Microsoft Teams,positive
-493,Teamwork Pays Off,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-11 14:44:12,Slack,positive
-494,Follow-Up Required,Can we sync up to discuss our progress on the project?,2025-01-29 17:28:12,Microsoft Teams,neutral
-495,Need Clarity on Expectations,I’m worried I won’t meet my deadlines,2025-02-06 02:38:12,Slack,neutral
-496,Outstanding Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-26 23:21:12,Slack,positive
-497,Next Steps Discussion,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-11 08:13:12,Microsoft Teams,negative
-498,Blocked on a Task,Can someone help me with this project? I’m having trouble with...,2025-01-16 04:36:12,Microsoft Teams,negative
-499,Keep Up the Good Work!,We’re on the right track—let’s keep pushing forward!,2025-01-21 18:22:12,Microsoft Teams,positive
-500,Clarification Needed,Here’s the link to the shared drive for the project files.,2025-01-12 11:26:12,Email,neutral
+Sr. No,Subject,Body,Timestamp,Communication Channel,tone,sentiment
+1,Great Job!,We’re on the right track—let’s keep pushing forward!,2025-01-30 18:40:12,Slack,neutral,positive
+2,Project Update,Can you forward me the CEO’s email please?,2025-01-26 07:44:12,Slack,neutral,neutral
+3,Urgent: Need Assistance,I’m hitting a few roadblocks here. Any suggestions?,2025-02-07 12:23:12,Email,neutral,negative
+4,Appreciation for Your Efforts,Thanks for your hard work on this project!,2025-01-17 20:13:12,Email,passive_aggressive,negative
+5,Quick Sync Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-11 06:23:12,Slack,neutral,neutral
+6,Concerns About Progress,I’m struggling with a lack of clarity around the expectations for my role,2025-01-15 14:42:12,Microsoft Teams,neutral,neutral
+7,Well Done!,Thanks for your hard work on this project!,2025-01-18 13:49:12,Email,passive_aggressive,negative
+8,General Inquiry,Here’s the link to the shared drive for the project files.,2025-02-01 02:47:12,Slack,neutral,neutral
+9,Struggling with Deadlines,"I suppose we can proceed, but I have some concerns.",2025-01-11 05:06:12,Email,neutral,neutral
+10,Fantastic Progress,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-07 02:39:12,Microsoft Teams,optimistic,positive
+11,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-10 00:50:12,Email,neutral,negative
+12,Feeling Overwhelmed,I’m worried I won’t meet my deadlines,2025-01-31 18:41:12,Microsoft Teams,overwhelmed,neutral
+13,Teamwork Pays Off,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-19 05:49:12,Microsoft Teams,optimistic,positive
+14,Follow-Up Required,Can you forward me the CEO’s email please?,2025-02-05 19:08:12,Microsoft Teams,neutral,neutral
+15,Need Clarity on Expectations,I’m struggling with a lack of clarity around the expectations for my role,2025-01-26 04:17:12,Microsoft Teams,neutral,neutral
+16,Outstanding Work!,Well done! Great teamwork,2025-01-14 08:28:12,Email,optimistic,positive
+17,Next Steps Discussion,Can you forward me the CEO’s email please?,2025-02-06 10:57:12,Email,neutral,neutral
+18,Blocked on a Task,This feels like it’s dragging on. Can we speed things up?,2025-01-23 16:28:12,Microsoft Teams,neutral,neutral
+19,Keep Up the Good Work!,Thanks for your hard work on this project!,2025-02-04 15:01:12,Microsoft Teams,passive_aggressive,negative
+20,Clarification Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-27 09:09:12,Slack,neutral,neutral
+21,Facing Challenges,I’m hitting a few roadblocks here. Any suggestions?,2025-01-10 17:03:12,Slack,neutral,negative
+22,Excellent Execution!,"Let’s keep it up, it looks good.",2025-01-20 19:42:12,Slack,neutral,positive
+23,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-07 04:12:12,Slack,neutral,neutral
+24,Workload Management Issues,I’m worried I won’t meet my deadlines,2025-01-12 20:06:12,Email,overwhelmed,neutral
+25,Great Job!,Thanks for your hard work on this project!,2025-01-19 12:29:12,Email,passive_aggressive,negative
+26,Project Update,Can we sync up to discuss our progress on the project?,2025-01-22 19:41:12,Email,neutral,neutral
+27,Urgent: Need Assistance,This feels like it’s dragging on. Can we speed things up?,2025-01-30 01:53:12,Microsoft Teams,neutral,neutral
+28,Appreciation for Your Efforts,Excellent progress. Let’s push through the final stretch!,2025-01-29 12:42:12,Email,neutral,positive
+29,Quick Sync Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-10 00:43:12,Email,neutral,negative
+30,Concerns About Progress,This feels like it’s dragging on. Can we speed things up?,2025-01-14 04:02:12,Microsoft Teams,neutral,neutral
+31,Well Done!,Let’s keep the momentum going!,2025-01-20 00:54:12,Slack,neutral,neutral
+32,General Inquiry,I’m feeling a bit unsure about this approach. What do you think?,2025-01-11 22:21:12,Microsoft Teams,neutral,neutral
+33,Struggling with Deadlines,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-02-04 07:11:12,Slack,neutral,positive
+34,Fantastic Progress,Let’s keep the momentum going!,2025-02-06 06:31:12,Microsoft Teams,neutral,neutral
+35,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-31 18:27:12,Email,neutral,negative
+36,Feeling Overwhelmed,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-16 06:47:12,Email,neutral,negative
+37,Teamwork Pays Off,We’re on the right track—let’s keep pushing forward!,2025-01-16 22:32:12,Slack,neutral,positive
+38,Follow-Up Required,Can you forward me the CEO’s email please?,2025-01-10 23:32:12,Slack,neutral,neutral
+39,Need Clarity on Expectations,"I suppose we can proceed, but I have some concerns.",2025-01-20 12:35:12,Microsoft Teams,neutral,neutral
+40,Outstanding Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-22 10:29:12,Email,optimistic,positive
+41,Next Steps Discussion,Can you forward me the CEO’s email please?,2025-01-25 01:44:12,Email,neutral,neutral
+42,Blocked on a Task,I’m struggling with a lack of clarity around the expectations for my role,2025-01-27 18:18:12,Slack,neutral,neutral
+43,Keep Up the Good Work!,Excellent progress. Let’s push through the final stretch!,2025-02-07 18:55:12,Email,neutral,positive
+44,Clarification Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-18 05:07:12,Microsoft Teams,neutral,negative
+45,Facing Challenges,I’m struggling with a lack of clarity around the expectations for my role,2025-01-15 03:35:12,Slack,neutral,neutral
+46,Excellent Execution!,Thanks for your hard work on this project!,2025-01-12 21:01:12,Email,passive_aggressive,negative
+47,Check-In Reminder,Can we sync up to discuss our progress on the project?,2025-02-02 23:50:12,Slack,neutral,neutral
+48,Workload Management Issues,"I’ll try to make this work, but it’s not ideal.",2025-01-12 04:30:12,Microsoft Teams,neutral,negative
+49,Great Job!,Thanks for your hard work on this project!,2025-01-30 12:14:12,Email,passive_aggressive,negative
+50,Project Update,Let’s touch base later today to go over the next steps.,2025-01-30 16:16:12,Email,neutral,negative
+51,Urgent: Need Assistance,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-16 16:34:12,Slack,neutral,positive
+52,Appreciation for Your Efforts,Excellent progress. Let’s push through the final stretch!,2025-01-18 19:46:12,Slack,neutral,positive
+53,Quick Sync Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-12 20:37:12,Email,neutral,neutral
+54,Concerns About Progress,"I’m juggling a few things at the moment, so I might need some extra time.",2025-02-01 23:38:12,Slack,neutral,negative
+55,Well Done!,Excellent progress. Let’s push through the final stretch!,2025-02-02 19:17:12,Email,neutral,positive
+56,General Inquiry,Here’s the link to the shared drive for the project files.,2025-02-03 18:45:12,Microsoft Teams,neutral,neutral
+57,Struggling with Deadlines,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-22 09:42:12,Microsoft Teams,neutral,positive
+58,Fantastic Progress,"Let’s keep it up, it looks good.",2025-01-30 20:28:12,Email,neutral,positive
+59,Meeting Rescheduled,Can we sync up to discuss our progress on the project?,2025-01-23 01:18:12,Microsoft Teams,neutral,neutral
+60,Feeling Overwhelmed,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-23 23:24:12,Email,neutral,negative
+61,Teamwork Pays Off,Excellent progress. Let’s push through the final stretch!,2025-01-14 16:28:12,Email,neutral,positive
+62,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-01-23 12:22:12,Slack,neutral,neutral
+63,Need Clarity on Expectations,This feels like it’s dragging on. Can we speed things up?,2025-01-11 08:47:12,Microsoft Teams,neutral,neutral
+64,Outstanding Work!,Let’s keep the momentum going!,2025-01-22 02:29:12,Microsoft Teams,neutral,neutral
+65,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-01-25 01:38:12,Microsoft Teams,neutral,neutral
+66,Blocked on a Task,I’m hitting a few roadblocks here. Any suggestions?,2025-01-19 03:19:12,Email,neutral,negative
+67,Keep Up the Good Work!,Thanks for your hard work on this project—it really paid off!,2025-01-12 13:35:12,Microsoft Teams,passive_aggressive,positive
+68,Clarification Needed,Let’s touch base later today to go over the next steps.,2025-01-28 21:24:12,Slack,neutral,negative
+69,Facing Challenges,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-11 04:43:12,Microsoft Teams,neutral,positive
+70,Excellent Execution!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-21 06:52:12,Microsoft Teams,optimistic,positive
+71,Check-In Reminder,Let’s touch base later today to go over the next steps.,2025-01-18 01:51:12,Microsoft Teams,neutral,negative
+72,Workload Management Issues,Can someone help me with this project? I’m having trouble with...,2025-01-12 11:05:12,Email,neutral,negative
+73,Great Job!,Thanks for your hard work on this project—it really paid off!,2025-01-25 17:38:12,Email,passive_aggressive,positive
+74,Project Update,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-14 11:19:12,Slack,neutral,negative
+75,Urgent: Need Assistance,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-02-07 12:23:12,Slack,neutral,positive
+76,Appreciation for Your Efforts,Thanks for your hard work on this project—it really paid off!,2025-01-20 00:18:12,Slack,passive_aggressive,positive
+77,Quick Sync Needed,Here’s the link to the shared drive for the project files.,2025-01-10 00:22:12,Slack,neutral,neutral
+78,Concerns About Progress,I’m not sure if this is the best use of our time.,2025-01-17 12:58:12,Microsoft Teams,neutral,positive
+79,Well Done!,We’re on the right track—let’s keep pushing forward!,2025-01-21 11:47:12,Microsoft Teams,neutral,positive
+80,General Inquiry,Can you forward me the CEO’s email please?,2025-01-12 06:17:12,Email,neutral,neutral
+81,Struggling with Deadlines,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-15 04:31:12,Microsoft Teams,neutral,positive
+82,Fantastic Progress,Well done! Great teamwork,2025-01-21 10:58:12,Email,optimistic,positive
+83,Meeting Rescheduled,Can you forward me the CEO’s email please?,2025-01-29 05:51:12,Slack,neutral,neutral
+84,Feeling Overwhelmed,I’m worried I won’t meet my deadlines,2025-01-11 08:32:12,Email,overwhelmed,neutral
+85,Teamwork Pays Off,Well done! Great teamwork,2025-01-10 12:46:12,Microsoft Teams,optimistic,positive
+86,Follow-Up Required,Let’s touch base later today to go over the next steps.,2025-01-16 12:50:12,Email,neutral,negative
+87,Need Clarity on Expectations,This feels like it’s dragging on. Can we speed things up?,2025-01-29 08:09:12,Slack,neutral,neutral
+88,Outstanding Work!,Thanks for your hard work on this project!,2025-01-24 16:11:12,Microsoft Teams,passive_aggressive,negative
+89,Next Steps Discussion,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-10 20:53:12,Microsoft Teams,neutral,negative
+90,Blocked on a Task,I’m struggling with a lack of clarity around the expectations for my role,2025-02-01 00:41:12,Email,neutral,neutral
+91,Keep Up the Good Work!,We’re on the right track—let’s keep pushing forward!,2025-01-22 22:01:12,Slack,neutral,positive
+92,Clarification Needed,Let’s touch base later today to go over the next steps.,2025-01-30 04:42:12,Slack,neutral,negative
+93,Facing Challenges,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-26 08:19:12,Slack,neutral,positive
+94,Excellent Execution!,Well done! Great teamwork,2025-01-29 17:17:12,Email,optimistic,positive
+95,Check-In Reminder,Can we sync up to discuss our progress on the project?,2025-01-21 22:22:12,Slack,neutral,neutral
+96,Workload Management Issues,I’m worried I won’t meet my deadlines,2025-02-01 14:28:12,Slack,overwhelmed,neutral
+97,Great Job!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-22 20:39:12,Email,optimistic,positive
+98,Project Update,Can we sync up to discuss our progress on the project?,2025-01-15 21:17:12,Email,neutral,neutral
+99,Urgent: Need Assistance,"I suppose we can proceed, but I have some concerns.",2025-01-18 05:07:12,Microsoft Teams,neutral,neutral
+100,Appreciation for Your Efforts,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-23 14:45:12,Slack,optimistic,positive
+101,Quick Sync Needed,Can we sync up to discuss our progress on the project?,2025-01-20 21:05:12,Email,neutral,neutral
+102,Concerns About Progress,"If that’s what everyone thinks is best, I’ll go along with it.",2025-02-02 08:15:12,Email,neutral,positive
+103,Well Done!,Thanks for your hard work on this project!,2025-01-12 17:29:12,Microsoft Teams,passive_aggressive,negative
+104,General Inquiry,Can you forward me the CEO’s email please?,2025-01-29 23:10:12,Slack,neutral,neutral
+105,Struggling with Deadlines,I’m not sure if this is the best use of our time.,2025-01-29 00:15:12,Slack,neutral,positive
+106,Fantastic Progress,"Let’s keep it up, it looks good.",2025-02-02 22:47:12,Microsoft Teams,neutral,positive
+107,Meeting Rescheduled,Let’s touch base later today to go over the next steps.,2025-01-27 16:30:12,Slack,neutral,negative
+108,Feeling Overwhelmed,There’s not enough progress so far. We need to step it up.,2025-01-21 05:54:12,Email,neutral,positive
+109,Teamwork Pays Off,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-18 18:54:12,Microsoft Teams,optimistic,positive
+110,Follow-Up Required,Can we sync up to discuss our progress on the project?,2025-02-01 01:20:12,Microsoft Teams,neutral,neutral
+111,Need Clarity on Expectations,I’m not sure if this is the best use of our time.,2025-01-14 16:24:12,Slack,neutral,positive
+112,Outstanding Work!,Thanks for your hard work on this project—it really paid off!,2025-02-08 03:43:12,Slack,passive_aggressive,positive
+113,Next Steps Discussion,I’m feeling a bit unsure about this approach. What do you think?,2025-01-23 16:27:12,Email,neutral,neutral
+114,Blocked on a Task,"I suppose we can proceed, but I have some concerns.",2025-02-06 16:58:12,Microsoft Teams,neutral,neutral
+115,Keep Up the Good Work!,Thanks for your hard work on this project!,2025-01-25 01:33:12,Email,passive_aggressive,negative
+116,Clarification Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-16 05:42:12,Email,neutral,negative
+117,Facing Challenges,"I suppose we can proceed, but I have some concerns.",2025-02-01 01:49:12,Microsoft Teams,neutral,neutral
+118,Excellent Execution!,Let’s keep the momentum going!,2025-01-11 22:15:12,Microsoft Teams,neutral,neutral
+119,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-04 11:06:12,Microsoft Teams,neutral,neutral
+120,Workload Management Issues,Can someone help me with this project? I’m having trouble with...,2025-02-01 20:37:12,Microsoft Teams,neutral,negative
+121,Great Job!,Thanks for your hard work on this project!,2025-01-15 12:21:12,Slack,passive_aggressive,negative
+122,Project Update,I’m feeling a bit unsure about this approach. What do you think?,2025-01-24 07:00:12,Email,neutral,neutral
+123,Urgent: Need Assistance,This feels like it’s dragging on. Can we speed things up?,2025-01-14 11:21:12,Email,neutral,neutral
+124,Appreciation for Your Efforts,"Let’s keep it up, it looks good.",2025-01-19 18:28:12,Microsoft Teams,neutral,positive
+125,Quick Sync Needed,Can you forward me the CEO’s email please?,2025-01-31 12:07:12,Slack,neutral,neutral
+126,Concerns About Progress,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-09 22:19:12,Slack,neutral,positive
+127,Well Done!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-28 13:55:12,Email,optimistic,positive
+128,General Inquiry,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-08 00:34:12,Email,neutral,neutral
+129,Struggling with Deadlines,This feels like it’s dragging on. Can we speed things up?,2025-01-23 13:57:12,Slack,neutral,neutral
+130,Fantastic Progress,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-05 20:48:12,Microsoft Teams,optimistic,positive
+131,Meeting Rescheduled,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-02 09:17:12,Slack,neutral,neutral
+132,Feeling Overwhelmed,"I’m juggling a few things at the moment, so I might need some extra time.",2025-02-03 23:49:12,Microsoft Teams,neutral,negative
+133,Teamwork Pays Off,Let’s keep the momentum going!,2025-02-08 19:21:12,Email,neutral,neutral
+134,Follow-Up Required,Can you forward me the CEO’s email please?,2025-01-15 23:18:12,Email,neutral,neutral
+135,Need Clarity on Expectations,I’m swamped with deadlines this week,2025-02-05 17:41:12,Email,overwhelmed,neutral
+136,Outstanding Work!,Well done! Great teamwork,2025-02-02 10:35:12,Microsoft Teams,optimistic,positive
+137,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-02-02 05:39:12,Email,neutral,neutral
+138,Blocked on a Task,This feels like it’s dragging on. Can we speed things up?,2025-01-22 23:06:12,Slack,neutral,neutral
+139,Keep Up the Good Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-14 06:57:12,Slack,optimistic,positive
+140,Clarification Needed,Let’s touch base later today to go over the next steps.,2025-02-03 00:28:12,Email,neutral,negative
+141,Facing Challenges,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-17 23:05:12,Microsoft Teams,neutral,positive
+142,Excellent Execution!,We’re on the right track—let’s keep pushing forward!,2025-01-23 12:05:12,Email,neutral,positive
+143,Check-In Reminder,I’m feeling a bit unsure about this approach. What do you think?,2025-01-23 07:42:12,Email,neutral,neutral
+144,Workload Management Issues,"I’ll try to make this work, but it’s not ideal.",2025-01-15 04:19:12,Slack,neutral,negative
+145,Great Job!,Excellent progress. Let’s push through the final stretch!,2025-02-03 07:04:12,Slack,neutral,positive
+146,Project Update,Here’s the link to the shared drive for the project files.,2025-02-02 16:27:12,Microsoft Teams,neutral,neutral
+147,Urgent: Need Assistance,"I suppose we can proceed, but I have some concerns.",2025-01-11 17:54:12,Slack,neutral,neutral
+148,Appreciation for Your Efforts,Let’s keep the momentum going!,2025-01-11 12:28:12,Microsoft Teams,neutral,neutral
+149,Quick Sync Needed,Here’s the link to the shared drive for the project files.,2025-01-21 03:02:12,Microsoft Teams,neutral,neutral
+150,Concerns About Progress,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-21 08:45:12,Slack,neutral,positive
+151,Well Done!,Excellent progress. Let’s push through the final stretch!,2025-02-02 22:48:12,Email,neutral,positive
+152,General Inquiry,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-07 09:06:12,Slack,neutral,neutral
+153,Struggling with Deadlines,I’m struggling with a lack of clarity around the expectations for my role,2025-01-14 20:51:12,Email,neutral,neutral
+154,Fantastic Progress,Excellent progress. Let’s push through the final stretch!,2025-01-13 16:35:12,Email,neutral,positive
+155,Meeting Rescheduled,Here’s the link to the shared drive for the project files.,2025-01-11 16:41:12,Email,neutral,neutral
+156,Feeling Overwhelmed,Can someone help me with this project? I’m having trouble with...,2025-01-29 16:14:12,Microsoft Teams,neutral,negative
+157,Teamwork Pays Off,Thanks for your hard work on this project—it really paid off!,2025-02-06 21:57:12,Microsoft Teams,passive_aggressive,positive
+158,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-01-10 19:05:12,Microsoft Teams,neutral,neutral
+159,Need Clarity on Expectations,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-20 09:42:12,Email,neutral,negative
+160,Outstanding Work!,Excellent progress. Let’s push through the final stretch!,2025-01-22 22:33:12,Microsoft Teams,neutral,positive
+161,Next Steps Discussion,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-17 10:56:12,Microsoft Teams,neutral,neutral
+162,Blocked on a Task,"I suppose we can proceed, but I have some concerns.",2025-02-07 02:41:12,Slack,neutral,neutral
+163,Keep Up the Good Work!,Excellent progress. Let’s push through the final stretch!,2025-02-04 20:36:12,Slack,neutral,positive
+164,Clarification Needed,I’m feeling a bit unsure about this approach. What do you think?,2025-01-30 10:28:12,Email,neutral,neutral
+165,Facing Challenges,I’m hitting a few roadblocks here. Any suggestions?,2025-01-16 06:51:12,Slack,neutral,negative
+166,Excellent Execution!,Excellent progress. Let’s push through the final stretch!,2025-01-17 16:56:12,Email,neutral,positive
+167,Check-In Reminder,I’m feeling a bit unsure about this approach. What do you think?,2025-02-05 16:00:12,Email,neutral,neutral
+168,Workload Management Issues,Can someone help me with this project? I’m having trouble with...,2025-01-12 06:52:12,Microsoft Teams,neutral,negative
+169,Great Job!,Excellent progress. Let’s push through the final stretch!,2025-01-14 02:56:12,Microsoft Teams,neutral,positive
+170,Project Update,Can you forward me the CEO’s email please?,2025-01-25 03:41:12,Microsoft Teams,neutral,neutral
+171,Urgent: Need Assistance,"I’ll try to make this work, but it’s not ideal.",2025-02-05 08:20:12,Email,neutral,negative
+172,Appreciation for Your Efforts,"Let’s keep it up, it looks good.",2025-01-23 21:24:12,Slack,neutral,positive
+173,Quick Sync Needed,Can we sync up to discuss our progress on the project?,2025-01-13 18:37:12,Email,neutral,neutral
+174,Concerns About Progress,"I suppose we can proceed, but I have some concerns.",2025-02-08 01:57:12,Microsoft Teams,neutral,neutral
+175,Well Done!,Let’s keep the momentum going!,2025-02-05 06:11:12,Email,neutral,neutral
+176,General Inquiry,I’m feeling a bit unsure about this approach. What do you think?,2025-01-15 22:36:12,Slack,neutral,neutral
+177,Struggling with Deadlines,I’m swamped with deadlines this week,2025-01-12 00:48:12,Email,overwhelmed,neutral
+178,Fantastic Progress,"Let’s keep it up, it looks good.",2025-02-06 03:55:12,Email,neutral,positive
+179,Meeting Rescheduled,I’m feeling a bit unsure about this approach. What do you think?,2025-01-14 00:44:12,Microsoft Teams,neutral,neutral
+180,Feeling Overwhelmed,There’s not enough progress so far. We need to step it up.,2025-01-29 23:48:12,Microsoft Teams,neutral,positive
+181,Teamwork Pays Off,Thanks for your hard work on this project!,2025-02-01 19:56:12,Slack,passive_aggressive,negative
+182,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-02-01 07:31:12,Microsoft Teams,neutral,neutral
+183,Need Clarity on Expectations,"I’ll try to make this work, but it’s not ideal.",2025-02-02 10:06:12,Email,neutral,negative
+184,Outstanding Work!,Thanks for your hard work on this project!,2025-01-27 04:15:12,Email,passive_aggressive,negative
+185,Next Steps Discussion,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-02-07 02:06:12,Email,neutral,negative
+186,Blocked on a Task,I’m hitting a few roadblocks here. Any suggestions?,2025-02-01 04:47:12,Microsoft Teams,neutral,negative
+187,Keep Up the Good Work!,Well done! Great teamwork,2025-01-28 06:08:12,Microsoft Teams,optimistic,positive
+188,Clarification Needed,Can we sync up to discuss our progress on the project?,2025-01-28 08:22:12,Slack,neutral,neutral
+189,Facing Challenges,I’m not sure if this is the best use of our time.,2025-02-02 07:21:12,Microsoft Teams,neutral,positive
+190,Excellent Execution!,We’re on the right track—let’s keep pushing forward!,2025-01-30 06:25:12,Microsoft Teams,neutral,positive
+191,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-14 18:02:12,Slack,neutral,neutral
+192,Workload Management Issues,I’m hitting a few roadblocks here. Any suggestions?,2025-01-26 14:26:12,Slack,neutral,negative
+193,Great Job!,Thanks for your hard work on this project—it really paid off!,2025-01-16 03:09:12,Email,passive_aggressive,positive
+194,Project Update,Here’s the link to the shared drive for the project files.,2025-01-28 13:42:12,Slack,neutral,neutral
+195,Urgent: Need Assistance,There’s not enough progress so far. We need to step it up.,2025-02-02 21:29:12,Email,neutral,positive
+196,Appreciation for Your Efforts,Well done! Great teamwork,2025-01-12 14:22:12,Microsoft Teams,optimistic,positive
+197,Quick Sync Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-11 03:36:12,Slack,neutral,negative
+198,Concerns About Progress,"I’m juggling a few things at the moment, so I might need some extra time.",2025-02-05 20:07:12,Microsoft Teams,neutral,negative
+199,Well Done!,Let’s keep the momentum going!,2025-01-29 07:04:12,Slack,neutral,neutral
+200,General Inquiry,Here’s the link to the shared drive for the project files.,2025-01-15 04:15:12,Email,neutral,neutral
+201,Struggling with Deadlines,"I suppose we can proceed, but I have some concerns.",2025-01-12 05:42:12,Microsoft Teams,neutral,neutral
+202,Fantastic Progress,Excellent progress. Let’s push through the final stretch!,2025-02-02 00:20:12,Slack,neutral,positive
+203,Meeting Rescheduled,Here’s the link to the shared drive for the project files.,2025-01-18 13:22:12,Microsoft Teams,neutral,neutral
+204,Feeling Overwhelmed,I’m worried I won’t meet my deadlines,2025-01-28 18:20:12,Email,overwhelmed,neutral
+205,Teamwork Pays Off,"Let’s keep it up, it looks good.",2025-01-30 18:13:12,Slack,neutral,positive
+206,Follow-Up Required,I’m feeling a bit unsure about this approach. What do you think?,2025-01-14 18:09:12,Slack,neutral,neutral
+207,Need Clarity on Expectations,I’m not sure if this is the best use of our time.,2025-01-25 05:08:12,Microsoft Teams,neutral,positive
+208,Outstanding Work!,We’re on the right track—let’s keep pushing forward!,2025-01-23 18:41:12,Email,neutral,positive
+209,Next Steps Discussion,Can you forward me the CEO’s email please?,2025-01-12 10:01:12,Slack,neutral,neutral
+210,Blocked on a Task,"I’ll try to make this work, but it’s not ideal.",2025-02-04 08:14:12,Microsoft Teams,neutral,negative
+211,Keep Up the Good Work!,Excellent progress. Let’s push through the final stretch!,2025-01-15 16:05:12,Email,neutral,positive
+212,Clarification Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-19 14:56:12,Email,neutral,neutral
+213,Facing Challenges,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-25 01:00:12,Microsoft Teams,neutral,negative
+214,Excellent Execution!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-17 16:50:12,Slack,optimistic,positive
+215,Check-In Reminder,Can you forward me the CEO’s email please?,2025-01-17 15:15:12,Microsoft Teams,neutral,neutral
+216,Workload Management Issues,I’m worried I won’t meet my deadlines,2025-01-22 03:23:12,Slack,overwhelmed,neutral
+217,Great Job!,Excellent progress. Let’s push through the final stretch!,2025-01-29 14:32:12,Microsoft Teams,neutral,positive
+218,Project Update,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-02-06 17:58:12,Email,neutral,negative
+219,Urgent: Need Assistance,There’s not enough progress so far. We need to step it up.,2025-01-15 22:58:12,Slack,neutral,positive
+220,Appreciation for Your Efforts,Let’s keep the momentum going!,2025-01-25 09:28:12,Slack,neutral,neutral
+221,Quick Sync Needed,I’m feeling a bit unsure about this approach. What do you think?,2025-01-16 09:05:12,Microsoft Teams,neutral,neutral
+222,Concerns About Progress,This feels like it’s dragging on. Can we speed things up?,2025-02-02 05:23:12,Email,neutral,neutral
+223,Well Done!,Thanks for your hard work on this project!,2025-01-10 17:32:12,Slack,passive_aggressive,negative
+224,General Inquiry,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-13 11:04:12,Microsoft Teams,neutral,negative
+225,Struggling with Deadlines,"If that’s what everyone thinks is best, I’ll go along with it.",2025-02-04 15:07:12,Microsoft Teams,neutral,positive
+226,Fantastic Progress,Let’s keep the momentum going!,2025-01-11 21:25:12,Microsoft Teams,neutral,neutral
+227,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-23 21:32:12,Email,neutral,negative
+228,Feeling Overwhelmed,Can someone help me with this project? I’m having trouble with...,2025-01-10 23:34:12,Microsoft Teams,neutral,negative
+229,Teamwork Pays Off,We’re on the right track—let’s keep pushing forward!,2025-01-13 11:43:12,Email,neutral,positive
+230,Follow-Up Required,Can you forward me the CEO’s email please?,2025-01-25 01:51:12,Email,neutral,neutral
+231,Need Clarity on Expectations,I’m hitting a few roadblocks here. Any suggestions?,2025-01-28 15:16:12,Email,neutral,negative
+232,Outstanding Work!,We’re on the right track—let’s keep pushing forward!,2025-01-31 23:39:12,Email,neutral,positive
+233,Next Steps Discussion,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-06 13:45:12,Slack,neutral,neutral
+234,Blocked on a Task,"I’ll try to make this work, but it’s not ideal.",2025-01-31 00:33:12,Slack,neutral,negative
+235,Keep Up the Good Work!,Well done! Great teamwork,2025-02-02 22:26:12,Slack,optimistic,positive
+236,Clarification Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-05 00:39:12,Microsoft Teams,neutral,neutral
+237,Facing Challenges,There’s not enough progress so far. We need to step it up.,2025-01-11 19:51:12,Microsoft Teams,neutral,positive
+238,Excellent Execution!,We’re on the right track—let’s keep pushing forward!,2025-01-16 10:41:12,Slack,neutral,positive
+239,Check-In Reminder,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-26 08:32:12,Email,neutral,negative
+240,Workload Management Issues,This feels like it’s dragging on. Can we speed things up?,2025-01-11 15:12:12,Email,neutral,neutral
+241,Great Job!,Thanks for your hard work on this project!,2025-01-14 11:20:12,Microsoft Teams,passive_aggressive,negative
+242,Project Update,Can we sync up to discuss our progress on the project?,2025-02-04 22:03:12,Email,neutral,neutral
+243,Urgent: Need Assistance,"I’ll try to make this work, but it’s not ideal.",2025-01-10 07:44:12,Slack,neutral,negative
+244,Appreciation for Your Efforts,Thanks for your hard work on this project—it really paid off!,2025-02-03 11:10:12,Email,passive_aggressive,positive
+245,Quick Sync Needed,Let’s touch base later today to go over the next steps.,2025-02-07 20:49:12,Slack,neutral,negative
+246,Concerns About Progress,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-02-06 18:10:12,Email,neutral,positive
+247,Well Done!,Excellent progress. Let’s push through the final stretch!,2025-01-14 23:55:12,Email,neutral,positive
+248,General Inquiry,I’m feeling a bit unsure about this approach. What do you think?,2025-01-18 23:19:12,Email,neutral,neutral
+249,Struggling with Deadlines,"I suppose we can proceed, but I have some concerns.",2025-01-20 01:19:12,Slack,neutral,neutral
+250,Fantastic Progress,Let’s keep the momentum going!,2025-01-14 11:18:12,Microsoft Teams,neutral,neutral
+251,Meeting Rescheduled,Let’s touch base later today to go over the next steps.,2025-01-18 21:57:12,Microsoft Teams,neutral,negative
+252,Feeling Overwhelmed,I’m struggling with a lack of clarity around the expectations for my role,2025-01-16 02:16:12,Slack,neutral,neutral
+253,Teamwork Pays Off,Thanks for your hard work on this project!,2025-01-15 11:41:12,Slack,passive_aggressive,negative
+254,Follow-Up Required,Let’s touch base later today to go over the next steps.,2025-01-11 11:04:12,Slack,neutral,negative
+255,Need Clarity on Expectations,I’m struggling with a lack of clarity around the expectations for my role,2025-01-30 13:12:12,Microsoft Teams,neutral,neutral
+256,Outstanding Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-06 00:23:12,Microsoft Teams,optimistic,positive
+257,Next Steps Discussion,I’m feeling a bit unsure about this approach. What do you think?,2025-01-20 20:27:12,Slack,neutral,neutral
+258,Blocked on a Task,"I’m juggling a few things at the moment, so I might need some extra time.",2025-02-02 18:35:12,Microsoft Teams,neutral,negative
+259,Keep Up the Good Work!,Well done! Great teamwork,2025-01-22 16:23:12,Email,optimistic,positive
+260,Clarification Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-11 15:58:12,Email,neutral,neutral
+261,Facing Challenges,I’m hitting a few roadblocks here. Any suggestions?,2025-01-27 02:59:12,Slack,neutral,negative
+262,Excellent Execution!,Well done! Great teamwork,2025-01-15 14:57:12,Microsoft Teams,optimistic,positive
+263,Check-In Reminder,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-14 05:27:12,Email,neutral,negative
+264,Workload Management Issues,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-31 22:59:12,Slack,neutral,positive
+265,Great Job!,Excellent progress. Let’s push through the final stretch!,2025-01-31 07:11:12,Microsoft Teams,neutral,positive
+266,Project Update,Can we sync up to discuss our progress on the project?,2025-01-14 16:06:12,Email,neutral,neutral
+267,Urgent: Need Assistance,This feels like it’s dragging on. Can we speed things up?,2025-01-20 19:16:12,Slack,neutral,neutral
+268,Appreciation for Your Efforts,Excellent progress. Let’s push through the final stretch!,2025-01-13 17:26:12,Microsoft Teams,neutral,positive
+269,Quick Sync Needed,Let’s touch base later today to go over the next steps.,2025-01-15 13:51:12,Email,neutral,negative
+270,Concerns About Progress,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-10 15:42:12,Microsoft Teams,neutral,positive
+271,Well Done!,Let’s keep the momentum going!,2025-01-19 10:00:12,Slack,neutral,neutral
+272,General Inquiry,Can we sync up to discuss our progress on the project?,2025-01-27 04:41:12,Email,neutral,neutral
+273,Struggling with Deadlines,I’m not sure if this is the best use of our time.,2025-01-26 04:35:12,Email,neutral,positive
+274,Fantastic Progress,Thanks for your hard work on this project!,2025-01-31 09:32:12,Microsoft Teams,passive_aggressive,negative
+275,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-31 09:09:12,Email,neutral,negative
+276,Feeling Overwhelmed,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-30 03:04:12,Slack,neutral,negative
+277,Teamwork Pays Off,We’re on the right track—let’s keep pushing forward!,2025-01-18 02:31:12,Email,neutral,positive
+278,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-01-16 15:34:12,Slack,neutral,neutral
+279,Need Clarity on Expectations,I’m swamped with deadlines this week,2025-01-27 13:37:12,Email,overwhelmed,neutral
+280,Outstanding Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-21 16:26:12,Microsoft Teams,optimistic,positive
+281,Next Steps Discussion,Let’s touch base later today to go over the next steps.,2025-02-04 17:05:12,Slack,neutral,negative
+282,Blocked on a Task,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-24 11:59:12,Email,neutral,positive
+283,Keep Up the Good Work!,"Let’s keep it up, it looks good.",2025-01-23 22:37:12,Email,neutral,positive
+284,Clarification Needed,Let’s touch base later today to go over the next steps.,2025-02-08 07:34:12,Email,neutral,negative
+285,Facing Challenges,I’m worried I won’t meet my deadlines,2025-01-13 14:12:12,Slack,overwhelmed,neutral
+286,Excellent Execution!,We’re on the right track—let’s keep pushing forward!,2025-01-26 04:36:12,Slack,neutral,positive
+287,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-11 13:10:12,Email,neutral,neutral
+288,Workload Management Issues,This feels like it’s dragging on. Can we speed things up?,2025-01-22 21:21:12,Slack,neutral,neutral
+289,Great Job!,Thanks for your hard work on this project!,2025-01-25 21:54:12,Email,passive_aggressive,negative
+290,Project Update,Can you forward me the CEO’s email please?,2025-01-20 05:35:12,Email,neutral,neutral
+291,Urgent: Need Assistance,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-20 02:17:12,Microsoft Teams,neutral,negative
+292,Appreciation for Your Efforts,We’re on the right track—let’s keep pushing forward!,2025-01-31 03:28:12,Slack,neutral,positive
+293,Quick Sync Needed,Let’s touch base later today to go over the next steps.,2025-02-08 02:00:12,Slack,neutral,negative
+294,Concerns About Progress,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-17 00:05:12,Email,neutral,negative
+295,Well Done!,"Let’s keep it up, it looks good.",2025-01-21 12:36:12,Slack,neutral,positive
+296,General Inquiry,Let’s touch base later today to go over the next steps.,2025-01-17 12:02:12,Slack,neutral,negative
+297,Struggling with Deadlines,I’m worried I won’t meet my deadlines,2025-01-17 19:40:12,Email,overwhelmed,neutral
+298,Fantastic Progress,We’re on the right track—let’s keep pushing forward!,2025-02-01 00:20:12,Microsoft Teams,neutral,positive
+299,Meeting Rescheduled,Can you forward me the CEO’s email please?,2025-01-29 07:01:12,Slack,neutral,neutral
+300,Feeling Overwhelmed,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-31 17:36:12,Microsoft Teams,neutral,positive
+301,Teamwork Pays Off,Let’s keep the momentum going!,2025-02-04 21:22:12,Slack,neutral,neutral
+302,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-01-10 21:40:12,Email,neutral,neutral
+303,Need Clarity on Expectations,There’s not enough progress so far. We need to step it up.,2025-01-22 22:58:12,Slack,neutral,positive
+304,Outstanding Work!,We’re on the right track—let’s keep pushing forward!,2025-01-11 08:15:12,Email,neutral,positive
+305,Next Steps Discussion,Can you forward me the CEO’s email please?,2025-02-07 16:37:12,Microsoft Teams,neutral,neutral
+306,Blocked on a Task,This feels like it’s dragging on. Can we speed things up?,2025-01-26 20:09:12,Microsoft Teams,neutral,neutral
+307,Keep Up the Good Work!,We’re on the right track—let’s keep pushing forward!,2025-02-01 15:57:12,Microsoft Teams,neutral,positive
+308,Clarification Needed,I’m feeling a bit unsure about this approach. What do you think?,2025-01-29 03:49:12,Slack,neutral,neutral
+309,Facing Challenges,I’m worried I won’t meet my deadlines,2025-02-02 06:22:12,Microsoft Teams,overwhelmed,neutral
+310,Excellent Execution!,Excellent progress. Let’s push through the final stretch!,2025-02-03 17:10:12,Slack,neutral,positive
+311,Check-In Reminder,I’m feeling a bit unsure about this approach. What do you think?,2025-01-29 05:39:12,Email,neutral,neutral
+312,Workload Management Issues,Can someone help me with this project? I’m having trouble with...,2025-01-27 17:39:12,Email,neutral,negative
+313,Great Job!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-14 09:18:12,Microsoft Teams,optimistic,positive
+314,Project Update,Can we sync up to discuss our progress on the project?,2025-02-03 22:19:12,Slack,neutral,neutral
+315,Urgent: Need Assistance,"I suppose we can proceed, but I have some concerns.",2025-02-04 17:14:12,Slack,neutral,neutral
+316,Appreciation for Your Efforts,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-09 21:59:12,Email,optimistic,positive
+317,Quick Sync Needed,Here’s the link to the shared drive for the project files.,2025-02-04 16:54:12,Email,neutral,neutral
+318,Concerns About Progress,There’s not enough progress so far. We need to step it up.,2025-02-04 06:36:12,Email,neutral,positive
+319,Well Done!,Thanks for your hard work on this project!,2025-01-13 23:02:12,Email,passive_aggressive,negative
+320,General Inquiry,Let’s touch base later today to go over the next steps.,2025-02-02 16:05:12,Slack,neutral,negative
+321,Struggling with Deadlines,This feels like it’s dragging on. Can we speed things up?,2025-01-31 19:04:12,Microsoft Teams,neutral,neutral
+322,Fantastic Progress,We’re on the right track—let’s keep pushing forward!,2025-01-17 15:37:12,Microsoft Teams,neutral,positive
+323,Meeting Rescheduled,I’m feeling a bit unsure about this approach. What do you think?,2025-01-28 18:12:12,Microsoft Teams,neutral,neutral
+324,Feeling Overwhelmed,I’m not sure if this is the best use of our time.,2025-01-30 05:49:12,Slack,neutral,positive
+325,Teamwork Pays Off,Thanks for your hard work on this project—it really paid off!,2025-02-04 02:06:12,Slack,passive_aggressive,positive
+326,Follow-Up Required,Can you forward me the CEO’s email please?,2025-01-31 12:18:12,Email,neutral,neutral
+327,Need Clarity on Expectations,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-13 10:35:12,Slack,neutral,negative
+328,Outstanding Work!,Well done! Great teamwork,2025-02-06 22:20:12,Email,optimistic,positive
+329,Next Steps Discussion,Can we sync up to discuss our progress on the project?,2025-01-31 23:53:12,Microsoft Teams,neutral,neutral
+330,Blocked on a Task,I’m not sure if this is the best use of our time.,2025-01-21 21:20:12,Microsoft Teams,neutral,positive
+331,Keep Up the Good Work!,"Let’s keep it up, it looks good.",2025-01-24 06:45:12,Email,neutral,positive
+332,Clarification Needed,I’m feeling a bit unsure about this approach. What do you think?,2025-01-27 18:44:12,Microsoft Teams,neutral,neutral
+333,Facing Challenges,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-16 20:11:12,Slack,neutral,negative
+334,Excellent Execution!,Let’s keep the momentum going!,2025-01-14 18:43:12,Microsoft Teams,neutral,neutral
+335,Check-In Reminder,Here’s the link to the shared drive for the project files.,2025-02-02 06:03:12,Microsoft Teams,neutral,neutral
+336,Workload Management Issues,"I’m juggling a few things at the moment, so I might need some extra time.",2025-02-06 06:28:12,Slack,neutral,negative
+337,Great Job!,Excellent progress. Let’s push through the final stretch!,2025-01-10 12:28:12,Slack,neutral,positive
+338,Project Update,Let’s touch base later today to go over the next steps.,2025-02-08 00:31:12,Email,neutral,negative
+339,Urgent: Need Assistance,I’m not sure if this is the best use of our time.,2025-01-22 11:26:12,Slack,neutral,positive
+340,Appreciation for Your Efforts,Well done! Great teamwork,2025-02-05 11:30:12,Microsoft Teams,optimistic,positive
+341,Quick Sync Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-13 17:04:12,Microsoft Teams,neutral,negative
+342,Concerns About Progress,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-10 02:14:12,Microsoft Teams,neutral,negative
+343,Well Done!,Thanks for your hard work on this project!,2025-01-17 11:18:12,Email,passive_aggressive,negative
+344,General Inquiry,I’m feeling a bit unsure about this approach. What do you think?,2025-01-24 05:54:12,Email,neutral,neutral
+345,Struggling with Deadlines,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-13 14:13:12,Microsoft Teams,neutral,positive
+346,Fantastic Progress,Well done! Great teamwork,2025-01-21 11:59:12,Microsoft Teams,optimistic,positive
+347,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-23 04:40:12,Microsoft Teams,neutral,negative
+348,Feeling Overwhelmed,I’m worried I won’t meet my deadlines,2025-02-08 06:11:12,Slack,overwhelmed,neutral
+349,Teamwork Pays Off,Thanks for your hard work on this project!,2025-01-10 02:58:12,Email,passive_aggressive,negative
+350,Follow-Up Required,Here’s the link to the shared drive for the project files.,2025-02-07 10:56:12,Email,neutral,neutral
+351,Need Clarity on Expectations,I’m swamped with deadlines this week,2025-01-26 22:50:12,Email,overwhelmed,neutral
+352,Outstanding Work!,Thanks for your hard work on this project!,2025-01-31 08:12:12,Email,passive_aggressive,negative
+353,Next Steps Discussion,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-13 01:30:12,Microsoft Teams,neutral,neutral
+354,Blocked on a Task,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-28 14:40:12,Microsoft Teams,neutral,positive
+355,Keep Up the Good Work!,Thanks for your hard work on this project!,2025-02-07 18:41:12,Slack,passive_aggressive,negative
+356,Clarification Needed,Can we sync up to discuss our progress on the project?,2025-01-13 10:55:12,Email,neutral,neutral
+357,Facing Challenges,"I’ll try to make this work, but it’s not ideal.",2025-01-14 05:55:12,Slack,neutral,negative
+358,Excellent Execution!,Thanks for your hard work on this project!,2025-01-21 10:23:12,Email,passive_aggressive,negative
+359,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-30 01:31:12,Microsoft Teams,neutral,neutral
+360,Workload Management Issues,There’s not enough progress so far. We need to step it up.,2025-01-10 01:11:12,Email,neutral,positive
+361,Great Job!,Well done! Great teamwork,2025-01-30 17:18:12,Slack,optimistic,positive
+362,Project Update,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-10 03:58:12,Microsoft Teams,neutral,negative
+363,Urgent: Need Assistance,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-11 09:08:12,Microsoft Teams,neutral,negative
+364,Appreciation for Your Efforts,Excellent progress. Let’s push through the final stretch!,2025-01-30 07:42:12,Email,neutral,positive
+365,Quick Sync Needed,Here’s the link to the shared drive for the project files.,2025-01-14 11:12:12,Email,neutral,neutral
+366,Concerns About Progress,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-02-05 16:36:12,Slack,neutral,positive
+367,Well Done!,Thanks for your hard work on this project!,2025-01-16 08:08:12,Microsoft Teams,passive_aggressive,negative
+368,General Inquiry,Let’s touch base later today to go over the next steps.,2025-01-19 17:41:12,Microsoft Teams,neutral,negative
+369,Struggling with Deadlines,I’m not sure if this is the best use of our time.,2025-01-30 02:01:12,Slack,neutral,positive
+370,Fantastic Progress,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-13 19:10:12,Slack,optimistic,positive
+371,Meeting Rescheduled,Can we sync up to discuss our progress on the project?,2025-01-15 16:45:12,Slack,neutral,neutral
+372,Feeling Overwhelmed,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-12 12:25:12,Slack,neutral,positive
+373,Teamwork Pays Off,"Let’s keep it up, it looks good.",2025-02-04 18:12:12,Email,neutral,positive
+374,Follow-Up Required,I’m feeling a bit unsure about this approach. What do you think?,2025-01-26 03:36:12,Slack,neutral,neutral
+375,Need Clarity on Expectations,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-02-02 23:26:12,Microsoft Teams,neutral,positive
+376,Outstanding Work!,Let’s keep the momentum going!,2025-01-29 02:46:12,Slack,neutral,neutral
+377,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-01-12 09:28:12,Microsoft Teams,neutral,neutral
+378,Blocked on a Task,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-12 05:27:12,Slack,neutral,positive
+379,Keep Up the Good Work!,Thanks for your hard work on this project—it really paid off!,2025-01-23 23:45:12,Slack,passive_aggressive,positive
+380,Clarification Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-28 18:19:12,Email,neutral,negative
+381,Facing Challenges,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-02-02 06:35:12,Slack,neutral,positive
+382,Excellent Execution!,Let’s keep the momentum going!,2025-02-02 03:52:12,Microsoft Teams,neutral,neutral
+383,Check-In Reminder,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-23 13:26:12,Slack,neutral,negative
+384,Workload Management Issues,There’s not enough progress so far. We need to step it up.,2025-01-17 20:34:12,Slack,neutral,positive
+385,Great Job!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-22 19:39:12,Slack,optimistic,positive
+386,Project Update,Can we sync up to discuss our progress on the project?,2025-01-19 14:49:12,Slack,neutral,neutral
+387,Urgent: Need Assistance,I’m struggling with a lack of clarity around the expectations for my role,2025-01-18 19:27:12,Email,neutral,neutral
+388,Appreciation for Your Efforts,Thanks for your hard work on this project—it really paid off!,2025-02-08 14:23:12,Slack,passive_aggressive,positive
+389,Quick Sync Needed,Can you forward me the CEO’s email please?,2025-01-19 08:13:12,Slack,neutral,neutral
+390,Concerns About Progress,I’m struggling with a lack of clarity around the expectations for my role,2025-01-16 02:55:12,Microsoft Teams,neutral,neutral
+391,Well Done!,"Let’s keep it up, it looks good.",2025-02-08 09:37:12,Email,neutral,positive
+392,General Inquiry,Here’s the link to the shared drive for the project files.,2025-01-13 09:06:12,Email,neutral,neutral
+393,Struggling with Deadlines,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-25 21:50:12,Microsoft Teams,neutral,positive
+394,Fantastic Progress,Let’s keep the momentum going!,2025-01-15 19:07:12,Email,neutral,neutral
+395,Meeting Rescheduled,Let’s touch base later today to go over the next steps.,2025-01-30 14:21:12,Microsoft Teams,neutral,negative
+396,Feeling Overwhelmed,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-22 08:20:12,Slack,neutral,negative
+397,Teamwork Pays Off,"Let’s keep it up, it looks good.",2025-01-16 13:44:12,Slack,neutral,positive
+398,Follow-Up Required,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-16 20:11:12,Slack,neutral,negative
+399,Need Clarity on Expectations,This feels like it’s dragging on. Can we speed things up?,2025-01-18 08:49:12,Slack,neutral,neutral
+400,Outstanding Work!,Let’s keep the momentum going!,2025-01-30 06:24:12,Email,neutral,neutral
+401,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-02-08 05:37:12,Microsoft Teams,neutral,neutral
+402,Blocked on a Task,I’m swamped with deadlines this week,2025-01-11 14:03:12,Slack,overwhelmed,neutral
+403,Keep Up the Good Work!,"Let’s keep it up, it looks good.",2025-01-25 07:23:12,Microsoft Teams,neutral,positive
+404,Clarification Needed,Can you forward me the CEO’s email please?,2025-01-14 12:28:12,Slack,neutral,neutral
+405,Facing Challenges,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-17 04:12:12,Slack,neutral,positive
+406,Excellent Execution!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-12 11:54:12,Email,optimistic,positive
+407,Check-In Reminder,I’m feeling a bit unsure about this approach. What do you think?,2025-01-15 11:02:12,Slack,neutral,neutral
+408,Workload Management Issues,There’s not enough progress so far. We need to step it up.,2025-01-18 00:12:12,Slack,neutral,positive
+409,Great Job!,Thanks for your hard work on this project—it really paid off!,2025-02-07 09:49:12,Email,passive_aggressive,positive
+410,Project Update,Can we sync up to discuss our progress on the project?,2025-01-21 01:36:12,Slack,neutral,neutral
+411,Urgent: Need Assistance,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-27 19:30:12,Slack,neutral,negative
+412,Appreciation for Your Efforts,Well done! Great teamwork,2025-01-26 03:35:12,Microsoft Teams,optimistic,positive
+413,Quick Sync Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-29 03:51:12,Slack,neutral,negative
+414,Concerns About Progress,I’m struggling with a lack of clarity around the expectations for my role,2025-01-12 21:15:12,Slack,neutral,neutral
+415,Well Done!,We’re on the right track—let’s keep pushing forward!,2025-01-29 03:58:12,Microsoft Teams,neutral,positive
+416,General Inquiry,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-25 09:17:12,Email,neutral,negative
+417,Struggling with Deadlines,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-14 04:03:12,Microsoft Teams,neutral,positive
+418,Fantastic Progress,We’re on the right track—let’s keep pushing forward!,2025-01-25 17:11:12,Email,neutral,positive
+419,Meeting Rescheduled,I’m feeling a bit unsure about this approach. What do you think?,2025-01-16 13:19:12,Microsoft Teams,neutral,neutral
+420,Feeling Overwhelmed,I’m struggling with a lack of clarity around the expectations for my role,2025-02-05 09:00:12,Email,neutral,neutral
+421,Teamwork Pays Off,"Let’s keep it up, it looks good.",2025-01-12 21:42:12,Microsoft Teams,neutral,positive
+422,Follow-Up Required,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-31 20:00:12,Microsoft Teams,neutral,neutral
+423,Need Clarity on Expectations,I’m swamped with deadlines this week,2025-01-24 11:27:12,Email,overwhelmed,neutral
+424,Outstanding Work!,Well done! Great teamwork,2025-01-22 10:31:12,Slack,optimistic,positive
+425,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-01-29 10:39:12,Microsoft Teams,neutral,neutral
+426,Blocked on a Task,I’m not sure if this is the best use of our time.,2025-01-25 18:35:12,Email,neutral,positive
+427,Keep Up the Good Work!,Thanks for your hard work on this project!,2025-01-12 13:38:12,Microsoft Teams,passive_aggressive,negative
+428,Clarification Needed,Let’s touch base later today to go over the next steps.,2025-01-10 08:25:12,Slack,neutral,negative
+429,Facing Challenges,"I’ll try to make this work, but it’s not ideal.",2025-01-21 02:20:12,Slack,neutral,negative
+430,Excellent Execution!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-08 09:16:12,Slack,optimistic,positive
+431,Check-In Reminder,Can we sync up to discuss our progress on the project?,2025-01-13 08:05:12,Slack,neutral,neutral
+432,Workload Management Issues,Can someone help me with this project? I’m having trouble with...,2025-01-19 01:08:12,Slack,neutral,negative
+433,Great Job!,We’re on the right track—let’s keep pushing forward!,2025-01-20 03:16:12,Microsoft Teams,neutral,positive
+434,Project Update,Let’s touch base later today to go over the next steps.,2025-01-27 14:36:12,Email,neutral,negative
+435,Urgent: Need Assistance,"I’ll try to make this work, but it’s not ideal.",2025-02-05 09:11:12,Microsoft Teams,neutral,negative
+436,Appreciation for Your Efforts,Excellent progress. Let’s push through the final stretch!,2025-02-06 04:20:12,Microsoft Teams,neutral,positive
+437,Quick Sync Needed,Here’s the link to the shared drive for the project files.,2025-01-14 01:07:12,Slack,neutral,neutral
+438,Concerns About Progress,This feels like it’s dragging on. Can we speed things up?,2025-01-24 03:57:12,Slack,neutral,neutral
+439,Well Done!,Thanks for your hard work on this project!,2025-01-26 01:21:12,Email,passive_aggressive,negative
+440,General Inquiry,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-27 10:35:12,Microsoft Teams,neutral,neutral
+441,Struggling with Deadlines,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-14 08:09:12,Slack,neutral,positive
+442,Fantastic Progress,"Let’s keep it up, it looks good.",2025-02-08 13:15:12,Microsoft Teams,neutral,positive
+443,Meeting Rescheduled,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-02-02 10:43:12,Microsoft Teams,neutral,negative
+444,Feeling Overwhelmed,I’m worried I won’t meet my deadlines,2025-01-11 19:26:12,Email,overwhelmed,neutral
+445,Teamwork Pays Off,We’re on the right track—let’s keep pushing forward!,2025-01-12 15:44:12,Microsoft Teams,neutral,positive
+446,Follow-Up Required,Can you forward me the CEO’s email please?,2025-02-06 22:13:12,Email,neutral,neutral
+447,Need Clarity on Expectations,"I suppose we can proceed, but I have some concerns.",2025-01-17 17:05:12,Email,neutral,neutral
+448,Outstanding Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-01 15:06:12,Slack,optimistic,positive
+449,Next Steps Discussion,Here’s the link to the shared drive for the project files.,2025-02-04 10:47:12,Email,neutral,neutral
+450,Blocked on a Task,"I’ll try to make this work, but it’s not ideal.",2025-02-04 15:02:12,Slack,neutral,negative
+451,Keep Up the Good Work!,Thanks for your hard work on this project—it really paid off!,2025-01-19 14:25:12,Slack,passive_aggressive,positive
+452,Clarification Needed,I’m feeling a bit unsure about this approach. What do you think?,2025-01-30 11:18:12,Microsoft Teams,neutral,neutral
+453,Facing Challenges,"If that’s what everyone thinks is best, I’ll go along with it.",2025-02-02 12:48:12,Email,neutral,positive
+454,Excellent Execution!,Thanks for your hard work on this project!,2025-02-04 04:40:12,Microsoft Teams,passive_aggressive,negative
+455,Check-In Reminder,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-06 02:29:12,Microsoft Teams,neutral,neutral
+456,Workload Management Issues,"If that’s what everyone thinks is best, I’ll go along with it.",2025-02-05 04:44:12,Email,neutral,positive
+457,Great Job!,Let’s keep the momentum going!,2025-01-18 16:25:12,Microsoft Teams,neutral,neutral
+458,Project Update,Can we sync up to discuss our progress on the project?,2025-01-12 06:58:12,Email,neutral,neutral
+459,Urgent: Need Assistance,This feels like it’s dragging on. Can we speed things up?,2025-02-05 11:43:12,Slack,neutral,neutral
+460,Appreciation for Your Efforts,Let’s keep the momentum going!,2025-01-15 09:40:12,Email,neutral,neutral
+461,Quick Sync Needed,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-16 18:41:12,Microsoft Teams,neutral,neutral
+462,Concerns About Progress,I’ve got a lot on my plate right now—let’s see if we can prioritize.,2025-01-10 22:17:12,Email,neutral,positive
+463,Well Done!,Thanks for your hard work on this project!,2025-01-29 22:35:12,Email,passive_aggressive,negative
+464,General Inquiry,I’m feeling a bit unsure about this approach. What do you think?,2025-02-08 17:15:12,Slack,neutral,neutral
+465,Struggling with Deadlines,"I suppose we can proceed, but I have some concerns.",2025-01-16 12:53:12,Email,neutral,neutral
+466,Fantastic Progress,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-31 17:30:12,Microsoft Teams,optimistic,positive
+467,Meeting Rescheduled,Let’s touch base later today to go over the next steps.,2025-01-22 17:35:12,Microsoft Teams,neutral,negative
+468,Feeling Overwhelmed,This feels like it’s dragging on. Can we speed things up?,2025-01-27 19:22:12,Email,neutral,neutral
+469,Teamwork Pays Off,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-02 21:04:12,Slack,optimistic,positive
+470,Follow-Up Required,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-31 02:54:12,Microsoft Teams,neutral,negative
+471,Need Clarity on Expectations,Can someone help me with this project? I’m having trouble with...,2025-02-08 00:29:12,Microsoft Teams,neutral,negative
+472,Outstanding Work!,Well done! Great teamwork,2025-01-14 15:41:12,Microsoft Teams,optimistic,positive
+473,Next Steps Discussion,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-22 05:27:12,Slack,neutral,neutral
+474,Blocked on a Task,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-31 23:50:12,Email,neutral,positive
+475,Keep Up the Good Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-27 22:55:12,Slack,optimistic,positive
+476,Clarification Needed,Can we sync up to discuss our progress on the project?,2025-02-04 03:33:12,Microsoft Teams,neutral,neutral
+477,Facing Challenges,"I’m juggling a few things at the moment, so I might need some extra time.",2025-01-26 09:04:12,Email,neutral,negative
+478,Excellent Execution!,Excellent progress. Let’s push through the final stretch!,2025-02-06 10:50:12,Email,neutral,positive
+479,Check-In Reminder,I’m feeling a bit unsure about this approach. What do you think?,2025-01-21 22:05:12,Microsoft Teams,neutral,neutral
+480,Workload Management Issues,I’m feeling really burnt out and overwhelmed. I think I need a break,2025-01-16 20:34:12,Microsoft Teams,neutral,positive
+481,Great Job!,Let’s keep the momentum going!,2025-01-15 06:06:12,Email,neutral,neutral
+482,Project Update,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-02-05 16:59:12,Email,neutral,neutral
+483,Urgent: Need Assistance,I’m swamped with deadlines this week,2025-02-02 18:28:12,Microsoft Teams,overwhelmed,neutral
+484,Appreciation for Your Efforts,We’re on the right track—let’s keep pushing forward!,2025-02-06 21:58:12,Microsoft Teams,neutral,positive
+485,Quick Sync Needed,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-30 15:49:12,Email,neutral,negative
+486,Concerns About Progress,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-17 23:13:12,Email,neutral,positive
+487,Well Done!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-02-07 17:39:12,Slack,optimistic,positive
+488,General Inquiry,Can we sync up to discuss our progress on the project?,2025-01-25 01:30:12,Microsoft Teams,neutral,neutral
+489,Struggling with Deadlines,"If that’s what everyone thinks is best, I’ll go along with it.",2025-01-17 17:15:12,Microsoft Teams,neutral,positive
+490,Fantastic Progress,Well done! Great teamwork,2025-02-01 10:51:12,Email,optimistic,positive
+491,Meeting Rescheduled,The meeting has been rescheduled to 3 PM. Please update your calendars.,2025-01-31 00:25:12,Microsoft Teams,neutral,neutral
+492,Feeling Overwhelmed,I’m not sure if this is the best use of our time.,2025-01-29 10:31:12,Microsoft Teams,neutral,positive
+493,Teamwork Pays Off,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-11 14:44:12,Slack,optimistic,positive
+494,Follow-Up Required,Can we sync up to discuss our progress on the project?,2025-01-29 17:28:12,Microsoft Teams,neutral,neutral
+495,Need Clarity on Expectations,I’m worried I won’t meet my deadlines,2025-02-06 02:38:12,Slack,overwhelmed,neutral
+496,Outstanding Work!,Great work. Let’s schedule a meeting to discuss the next steps.,2025-01-26 23:21:12,Slack,optimistic,positive
+497,Next Steps Discussion,This isn’t quite what I had in mind. Can we make a few adjustments?,2025-01-11 08:13:12,Microsoft Teams,neutral,negative
+498,Blocked on a Task,Can someone help me with this project? I’m having trouble with...,2025-01-16 04:36:12,Microsoft Teams,neutral,negative
+499,Keep Up the Good Work!,We’re on the right track—let’s keep pushing forward!,2025-01-21 18:22:12,Microsoft Teams,neutral,positive
+500,Clarification Needed,Here’s the link to the shared drive for the project files.,2025-01-12 11:26:12,Email,neutral,neutral
