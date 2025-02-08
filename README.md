@@ -1,2 +1,2 @@
 # ADP-Hack-Challenge
-The process of computationally identifying and categorizing opinions expressed in a piece of text to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral.
+Created a solution using AI to analyze employee emails, chats, and feedback to understand employee morale and well-being. This will help organizations to tackle and solve employee issues proactively and improve company culture.
